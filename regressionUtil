@@ -1,0 +1,3 @@
+
+def calculateLossGradient(weight, distance, time):
+	

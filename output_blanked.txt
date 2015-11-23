@@ -1,0 +1,1503 @@
+Name* Edward Cheserek
+Distance* 800
+Race * Essex County Championships * Time* 01:50.84 *Date*  05-17-2013
+Race * 79th Eastern States Championships * Time* 01:52.11 *Date*  02-25-2013
+Race * Essex County Championships * Time* 01:59.31 *Date*  02-02-2013
+Race * Essex County Championships * Time* 01:49.98 *Date*  05-18-2012
+Race * NJISAA (Prep) Championships - "A" * Time* 01:53.69 *Date*  05-16-2012
+Race * NJISAA (Prep) Championships - "A" * Time* 01:53.16 *Date*  02-15-2012
+Race * Essex County Championships * Time* 01:53.79 *Date*  02-05-2012
+Race * Essex County Championships * Time* 01:52.13 *Date*  05-20-2011
+Race * NJISAA (Prep) Championships * Time* 01:58.94 *Date*  02-16-2011
+Race * Essex County Champonships * Time* 01:54.15 *Date*  01-30-2011
+Race * NYRR Thursday Night at the Races * Time* 01:53.64 *Date*  01-06-2011
+Race * Armory Youth/Open/Masters Holiday Classic * Time* 01:56.08 *Date*  12-28-2010
+Distance* 1600
+Race * NJCTC Indoor Championship * Time* 04:13.33 *Date*  02-10-2013
+Race * Essex County Championships * Time* 04:29.17 *Date*  02-02-2013
+Race * Essex County Championships * Time* 04:11.35 *Date*  05-18-2012
+Race * NJISAA (Prep) Championships - "A" * Time* 04:22.73 *Date*  05-16-2012
+Race * 45th Glenn D. Loucks Games * Time* 04:09.90 *Date*  05-10-2012
+Race * NJISAA (Prep) Championships - "A" * Time* 04:17.61 *Date*  02-15-2012
+Race * Essex County Championships * Time* 04:16.96 *Date*  02-05-2012
+Race * Essex County Championships * Time* 04:10.92 *Date*  05-20-2011
+Race * NJISAA (Prep) "A" * Time* 04:17.39 *Date*  05-18-2011
+Race * NJISAA (Prep) Championships * Time* 04:22.14 *Date*  02-16-2011
+Race * NJCTC Championships * Time* 04:16.82 *Date*  02-06-2011
+Race * Essex County Champonships * Time* 04:27.37 *Date*  01-30-2011
+Distance* 5250
+Race * NJCTC Championships * Time* 15:18.14 *Date*  11-05-2011
+Race * NJCTC Championships * Time* 15:18.45 *Date*  11-06-2010
+Distance* 4000
+Race * Reebok Manhattan HS Invitational * Time* 11:58.70 *Date*  10-13-2012
+Race * Reebok Manhattan HS Invitational * Time* 11:55.39 *Date*  10-09-2011
+Race * Reebok Manhattan HS Invitational * Time* 12:34.41 *Date*  10-09-2010
+Distance* 1000
+Race * NJCTC Indoor Championship * Time* 02:27.42 *Date*  02-10-2013
+Distance* 1609
+Race * NCAA DI Indoor Track and Field Championships * Time* 03:58.69 *Date*  03-13-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 03:57.94 *Date*  03-13-2015
+Race * Millrose Games * Time* 03:56.43 *Date*  02-14-2015
+Race * Adidas Grand Prix * Time* 04:05.36 *Date*  05-23-2013
+Race * 46th Glenn D. Loucks Games * Time* 04:11.19 *Date*  05-09-2013
+Race * New Balance Games * Time* 04:10.94 *Date*  01-26-2013
+Race * adidas Grand Prix * Time* 04:07.29 *Date*  06-08-2012
+Race * New Balance Indoor Nationals * Time* 04:09.07 *Date*  03-09-2012
+Race * New Balance Games * Time* 04:02.21 *Date*  01-21-2012
+Race * Bishop Loughlin Games * Time* 04:09.90 *Date*  12-17-2011
+Race * adidas Grand Prix * Time* 04:03.29 *Date*  06-11-2011
+Race * NYRR Thursday Night at the Races * Time* 04:12.80 *Date*  01-06-2011
+Distance* 3200
+Race * NJISAA "Prep" Championships * Time* 09:08.63 *Date*  05-15-2013
+Race * Essex County Championships * Time* 10:07.59 *Date*  02-02-2013
+Race * Essex County Championships * Time* 09:03.51 *Date*  05-18-2012
+Race * NJISAA (Prep) Championships - "A" * Time* 09:13.55 *Date*  02-15-2012
+Race * Essex County Championships * Time* 09:06.34 *Date*  02-05-2012
+Race * Essex County Championships * Time* 08:53.65 *Date*  05-20-2011
+Race * NJISAA (Prep) "A" * Time* 09:10.66 *Date*  05-18-2011
+Race * NJISAA (Prep) Championships * Time* 09:13.11 *Date*  02-16-2011
+Race * NJCTC Championships * Time* 09:12.62 *Date*  02-06-2011
+Race * Essex County Champonships * Time* 09:34.30 *Date*  01-30-2011
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:22.80 *Date*  10-17-2015
+Race * Washington Invitational * Time* 23:15.40 *Date*  10-02-2015
+Race * Bill Dellinger Invitational * Time* 24:26.10 *Date*  09-11-2015
+Race * Pac 12 Cross Country Championships * Time* 23:23.14 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:04.50 *Date*  10-18-2014
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:20.14 *Date*  09-26-2014
+Race * Bill Dellinger Invitational * Time* 24:24.14 *Date*  09-05-2014
+Race * Pac 12 Cross Country Championships * Time* 24:36.14 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:33.14 *Date*  10-19-2013
+Race * Bill Dellinger Invitational * Time* 24:00.14 *Date*  10-05-2013
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:11.14 *Date*  09-27-2013
+Distance* 10000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 28:58.92 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 29:43.89 *Date*  05-28-2015
+Race * Stanford Invitational * Time* 29:04.06 *Date*  04-03-2015
+Race * NCAA DI Cross Country Championships * Time* 30:19.40 *Date*  11-22-2014
+Race * NCAA D1 West Regional * Time* 29:35.17 *Date*  11-14-2014
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 28:30.18 *Date*  06-11-2014
+Race * NCAA Division I West Preliminary * Time* 29:06.99 *Date*  05-29-2014
+Race * Stanford Invitational * Time* 28:51.97 *Date*  04-04-2014
+Race * NCAA DI Cross Country Championships * Time* 29:41.10 *Date*  11-23-2013
+Race * NCAA D1 West Regional * Time* 29:35.17 *Date*  11-15-2013
+Race * Sam Howell Memorial Invitational * Time* 29:42.31 *Date*  04-06-2012
+Predict the time for the 5000  here: *  
+Distance* 3218
+Race * New Balance Indoor Nationals * Time* 08:59.53 *Date*  03-08-2013
+Race * Millrose Games * Time* 08:39.15 *Date*  02-16-2013
+Race * New Balance Outdoor Nationals * Time* 08:55.12 *Date*  06-14-2012
+Race * New Balance Indoor Nationals * Time* 08:50.53 *Date*  03-09-2012
+Race * 75th Eastern States Championships * Time* 08:54.82 *Date*  02-28-2012
+Race * Molloy Stanner Games * Time* 08:43.16 *Date*  01-14-2012
+Race * New Balance Indoor Nationals * Time* 08:42.66 *Date*  03-11-2011
+Race * 74th Eastern States Championships * Time* 09:02.40 *Date*  03-01-2011
+Distance* 3000
+Race * Oregon Twilight * Time* 07:57.97 *Date*  05-08-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 07:59.42 *Date*  03-13-2015
+Race * Rod McCravy Memorial * Time* 07:49.56 *Date*  01-23-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 08:11.59 *Date*  03-14-2014
+Race * Mountain Pacific Sports Federation Championships * Time* 07:47.20 *Date*  02-28-2014
+Race * Millrose Games * Time* 08:05.46 *Date*  02-16-2013
+Distance* 1500
+Race * Portland Summer Twilight * Time* 03:37.08 *Date*  07-02-2015
+Race * Millrose Games * Time* 03:41.19 *Date*  02-14-2015
+Race * Pac 12 Championships * Time* 03:56.05 *Date*  05-17-2014
+Race * Pac 12 Championships * Time* 03:36.50 *Date*  05-17-2014
+Race * New Balance Games * Time* 03:55.53 *Date*  01-26-2013
+Race * New Balance Games * Time* 03:45.20 *Date*  01-21-2012
+Race * Armory Youth/Open/Masters Holiday Classic * Time* 03:58.14 *Date*  12-28-2010
+Name* Ben Saarel
+Distance* 800
+Race * Colorado Invitational * Time* 01:52.46 *Date*  04-10-2015
+Race * Colorado Invitational * Time* 01:51.11 *Date*  04-11-2014
+Race * Air Force Invitational * Time* 01:52.86 *Date*  01-23-2014
+Race * Utah State Track and Field Championships * Time* 01:51.13 *Date*  05-17-2013
+Race * 2013 BYU Invitational * Time* 01:51.90 *Date*  05-03-2013
+Race * Mt. SAC Relays * Time* 01:52.64 *Date*  04-18-2013
+Race * Pine View Invitational * Time* 01:54.10 *Date*  03-22-2013
+Race * Utah State Track and Field Championships * Time* 01:52.93 *Date*  05-18-2012
+Race * BYU High School Invitational * Time* 01:55.19 *Date*  05-02-2012
+Race * UHSTCA Outdoor Invitational * Time* 02:03.56 *Date*  03-31-2012
+Race * Pine View Invitational * Time* 01:57.23 *Date*  03-23-2012
+Race * 2011 Utah UHSAA State T&F Championships * Time* 02:03.87 *Date*  05-20-2011
+Predict the time for the 1600  here: *  
+Distance* 5000
+Race * Husky Classic * Time* 13:58.19 *Date*  02-13-2015
+Race * NCAA Division I West Preliminary * Time* 14:53.63 *Date*  05-29-2014
+Race * Payton Jordan Cardinal Invitational * Time* 13:48.97 *Date*  05-04-2014
+Race * Foot Locker Nationals * Time* 15:13.91 *Date*  12-08-2012
+Race * Foot Locker West Regional * Time* 15:28.92 *Date*  12-01-2012
+Race * Nike Cross Regionals - Southwest * Time* 14:52.40 *Date*  11-17-2012
+Race * Bob Firman Invitational * Time* 15:08.26 *Date*  09-22-2012
+Race * Murray Invitational * Time* 15:28.40 *Date*  09-07-2012
+Race * Foot Locker West Regional * Time* 15:59.95 *Date*  12-03-2011
+Race * Bob Firman Invitational * Time* 16:29.28 *Date*  09-24-2011
+Race * Murray Invitational * Time* 15:42.60 *Date*  09-16-2011
+Race * Utah County Invitational * Time* 15:15.53 *Date*  09-02-2011
+Race * Foot Locker West Regional * Time* 16:31.99 *Date*  12-04-2010
+Race * Bob Firman Invitational * Time* 16:02.07 *Date*  09-25-2010
+Race * Provo Bulldog Invitational * Time* 16:31.60 *Date*  09-18-2010
+Race * Utah County Invitational Results * Time* 16:35.99 *Date*  09-03-2010
+Distance* 1609
+Race * Air Force Invitational * Time* 04:12.30 *Date*  01-22-2015
+Race * Mountain Pacific Sports Federation Championships * Time* 04:05.22 *Date*  02-28-2014
+Race * Adidas Grand Prix * Time* 04:02.72 *Date*  05-23-2013
+Race * Mt. SAC Relays * Time* 04:08.55 *Date*  04-18-2013
+Distance* 3200
+Race * 2013 BYU Invitational * Time* 08:49.10 *Date*  05-03-2013
+Race * Arcadia Invitational * Time* 08:45.74 *Date*  04-05-2013
+Race * Pine View Invitational * Time* 08:55.30 *Date*  03-22-2013
+Race * Simplot Games * Time* 09:00.62 *Date*  02-14-2013
+Race * Simplot Games * Time* 09:24.51 *Date*  02-14-2013
+Race * UHSTCA Invitational Championships * Time* 09:10.85 *Date*  02-01-2013
+Race * Utah State Track and Field Championships * Time* 09:25.11 *Date*  05-18-2012
+Race * BYU High School Invitational * Time* 09:16.35 *Date*  05-02-2012
+Race * Arcadia Invitational * Time* 09:01.46 *Date*  04-06-2012
+Race * Pine View Invitational * Time* 09:44.53 *Date*  03-23-2012
+Race * Simplot Games * Time* 09:29.65 *Date*  02-16-2012
+Race * Simplot Games * Time* 09:33.57 *Date*  02-16-2012
+Race * UHSTCA Invitational Championships * Time* 09:28.63 *Date*  02-03-2012
+Race * Weber State University Developmental Meet * Time* 10:17.61 *Date*  01-20-2012
+Race * 2011 Utah UHSAA State T&F Championships * Time* 09:53.43 *Date*  05-20-2011
+Distance* 8000
+Race * Rocky Mountain Shootout * Time* 25:18.15 *Date*  10-03-2015
+Race * Pac 12 Cross Country Championships * Time* 23:54.14 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:15.30 *Date*  10-18-2014
+Race * Rocky Mountain Shootout * Time* 24:43.10 *Date*  10-04-2014
+Race * Pac 12 Cross Country Championships * Time* 24:53.14 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:40.70 *Date*  10-19-2013
+Distance* 10000
+Race * NCAA DI Cross Country Championships * Time* 30:30.70 *Date*  11-22-2014
+Race * NCAA DI Mountain Regional * Time* 30:03.67 *Date*  11-14-2014
+Race * NCAA DI Cross Country Championships * Time* 30:14.10 *Date*  11-23-2013
+Race * NCAA DI Mountain Regional * Time* 29:46.40 *Date*  11-15-2013
+Distance* 3000
+Race * Mountain Pacific Sports Federation Championships * Time* 07:57.74 *Date*  02-27-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 08:13.45 *Date*  03-14-2014
+Race * Husky Classic * Time* 07:52.61 *Date*  02-14-2014
+Distance* 4827
+Race * Utah State XC Championship * Time* 14:56.70 *Date*  10-17-2012
+Race * Utah Region 10 XC Championships * Time* 15:02.90 *Date*  10-09-2012
+Race * Utah County Cross Country Invitational * Time* 14:58.91 *Date*  09-01-2012
+Race * Utah State XC Championship * Time* 15:50.30 *Date*  10-19-2011
+Race * Highland Invitational * Time* 15:31.90 *Date*  08-26-2011
+Race * Utah UHSAA State XC Championships * Time* 15:56.90 *Date*  10-20-2010
+Race * Murray Invitational * Time* 15:14.30 *Date*  09-10-2010
+Race * Premier Invitational * Time* 15:32.93 *Date*  08-21-2010
+Race * Utah State Cross Country Championship * Time* 16:13.70 *Date*  10-21-2009
+Race * Wasatch Rendevous * Time* 16:22.10 *Date*  09-19-2009
+Distance* 1500
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 03:47.07 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 03:44.19 *Date*  05-28-2015
+Race * NCAA Division I West Preliminary * Time* 03:45.04 *Date*  05-28-2015
+Race * Pac-12 Championships * Time* 03:41.85 *Date*  05-16-2015
+Race * Pac-12 Championships * Time* 03:46.90 *Date*  05-16-2015
+Race * Payton Jordan Cardinal Invitational * Time* 03:41.90 *Date*  05-02-2015
+Race * Bryan Clay Invitational * Time* 03:43.88 *Date*  04-17-2015
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 03:47.19 *Date*  06-11-2014
+Race * NCAA Division I West Preliminary * Time* 03:45.58 *Date*  05-29-2014
+Race * NCAA Division I West Preliminary * Time* 03:42.89 *Date*  05-29-2014
+Race * Pac 12 Championships * Time* 03:43.38 *Date*  05-17-2014
+Race * Pac 12 Championships * Time* 03:47.76 *Date*  05-17-2014
+Race * Bryan Clay Invitational * Time* 03:41.54 *Date*  04-17-2014
+Name* Shaun Thompson
+Distance* 1600
+Race * CNS Boys Invitational * Time* 04:20.71 *Date*  05-21-2011
+Race * South Jefferson Invitational * Time* 04:39.85 *Date*  05-07-2011
+Race * CNS Co-Ed Relays * Time* 04:25.12 *Date*  04-09-2011
+Race * Section 3 Boys Championships * Time* 04:32.43 *Date*  01-23-2011
+Race * Sec. 3 OHSL/CNYCL Champs * Time* 04:37.99 *Date*  01-08-2011
+Race * Sec. 3 George Constantino Invit * Time* 04:40.06 *Date*  12-28-2010
+Race * South Jefferson Invitational * Time* 04:36.40 *Date*  05-08-2010
+Race * Sec. 3 OHSL/CNYCL Boys * Time* 04:44.46 *Date*  02-17-2010
+Race * Sec. 3 George Constantino Invit * Time* 04:40.22 *Date*  01-13-2010
+Race * Sec. 3 Fred Kirschenheiter * Time* 04:40.75 *Date*  01-04-2010
+Race * CNS Co-Ed Relays * Time* 04:37.04 *Date*  04-11-2009
+Race * CNYCL & OHSL Championships * Time* 04:49.65 *Date*  02-16-2009
+Race * Sec. 3 Championships * Time* 04:41.62 *Date*  02-09-2009
+Race * CNYCL "National" Champs * Time* 04:46.01 *Date*  05-22-2008
+Race * CNS Coed Relays * Time* 04:50.27 *Date*  04-12-2008
+Race * OHSL League Championship - Boys * Time* 04:45.46 *Date*  02-20-2008
+Distance* 2000
+Race * New Balance Outdoor Nationals * Time* 06:16.86 *Date*  06-17-2010
+Distance* 4000
+Race * Reebok Manhattan HS Invitational * Time* 15:42.87 *Date*  10-09-2010
+Race * Manhattan College Invitational * Time* 13:01.66 *Date*  10-10-2009
+Race * Manhattan College Invitational * Time* 12:59.93 *Date*  10-11-2008
+Distance* 1000
+Race * Sec. 3 Constantino Invitational * Time* 02:44.29 *Date*  02-05-2009
+Distance* 1609
+Race * Dick Taylor Carolina Cup * Time* 04:14.68 *Date*  01-16-2015
+Race * Joe Hilton Invitational * Time* 04:10.04 *Date*  04-12-2014
+Race * Virginia Tech Invitational * Time* 04:16.36 *Date*  01-18-2013
+Distance* 3200
+Race * South Jefferson Invitational * Time* 09:46.04 *Date*  05-07-2011
+Race * New Hartford Invitational * Time* 09:33.46 *Date*  04-29-2011
+Race * NYSPHSAA -NY State Champs * Time* 09:45.41 *Date*  03-05-2011
+Race * Section 3 State Qualifier * Time* 09:26.06 *Date*  02-26-2011
+Race * Section 3 Boys Championships * Time* 09:38.06 *Date*  01-23-2011
+Race * Sec. 3 OHSL/CNYCL Champs * Time* 09:39.30 *Date*  01-08-2011
+Race * Sec. 3 John Arcaro Invit * Time* 09:49.88 *Date*  12-18-2010
+Race * Sec 3 Class AA Boys Champs * Time* 09:44.74 *Date*  05-26-2010
+Race * CNS Boys Invitational * Time* 09:28.28 *Date*  05-22-2010
+Race * Sec. 3 CNYCL Champs * Time* 09:50.05 *Date*  05-17-2010
+Race * New Hartford Invitational * Time* 09:29.63 *Date*  05-01-2010
+Race * Section 3 State Qualifier * Time* 09:56.97 *Date*  03-01-2010
+Race * Sec. 3 OHSL/CNYCL Boys * Time* 09:49.91 *Date*  02-17-2010
+Race * Section 3 Boys Class Championships * Time* 09:41.27 *Date*  02-09-2010
+Race * Sec. 3 Bob Grieve Invit * Time* 09:51.68 *Date*  01-07-2010
+Race * CNYCITA Christmas Relays * Time* 10:17.10 *Date*  12-18-2009
+Race * CNYCL Boys League Champs * Time* 09:56.39 *Date*  05-21-2009
+Race * 56th Annual New Hartford Invitational * Time* 09:34.96 *Date*  05-01-2009
+Race * Section 3 State Qualifier * Time* 09:47.82 *Date*  02-27-2009
+Race * CNYCL & OHSL Championships * Time* 09:52.57 *Date*  02-16-2009
+Race * Sec. 3 Championships * Time* 09:47.36 *Date*  02-09-2009
+Race * Sec. 3 Bob Grieve Invitational * Time* 10:00.21 *Date*  01-21-2009
+Race * CNYITA Boys Christmas Relays * Time* 10:02.26 *Date*  01-10-2009
+Race * Sec 3 Class AA Boys Champs * Time* 10:02.11 *Date*  05-29-2008
+Race * CNYCL "National" Champs * Time* 10:29.25 *Date*  05-22-2008
+Race * Cicero-North Syracuse Invitational * Time* 09:59.26 *Date*  05-17-2008
+Distance* 6000
+Race * Virginia Tech Alumni Open * Time* 18:25.68 *Date*  08-31-2012
+Predict the time for the 8000  here: *  
+Distance* 400
+Race * HPU VertKlasse Meeting * Time* 09:12.82 *Date*  03-24-2012
+Distance* 5000
+Race * NCAA DI Indoor Track and Field Championships * Time* 14:16.23 *Date*  03-13-2015
+Race * ACC Championships * Time* 14:10.37 *Date*  02-26-2015
+Race * Iowa State Classic * Time* 13:47.22 *Date*  02-13-2015
+Race * NCAA Division I East Preliminary * Time* 14:29.66 *Date*  05-29-2014
+Race * Virginia Challenge * Time* 14:08.24 *Date*  05-09-2014
+Race * ACC Championship * Time* 14:03.57 *Date*  04-17-2014
+Race * Raleigh Relays * Time* 13:58.82 *Date*  03-28-2014
+Race * ACC Championships * Time* 14:12.83 *Date*  02-27-2014
+Race * New Balance Armory Collegiate Invitational * Time* 14:03.15 *Date*  02-07-2014
+Race * Atlantic Coast Conference Championship * Time* 14:13.11 *Date*  04-19-2013
+Race * ACC Indoor Championship * Time* 14:37.75 *Date*  02-22-2013
+Race * ACC Indoor Championship * Time* 14:27.88 *Date*  02-23-2012
+Race * Dick Taylor Invitational * Time* 15:35.44 *Date*  01-13-2012
+Race * Nike Cross Nationals * Time* 17:10.90 *Date*  12-04-2010
+Race * NY Federation Championships * Time* 15:51.80 *Date*  11-20-2010
+Race * NYSPHSAA - New York State Championships * Time* 16:00.70 *Date*  11-13-2010
+Race * Section 3 Championships * Time* 16:00.70 *Date*  11-06-2010
+Race * Sec. 3 CNYCL Champs * Time* 15:37.40 *Date*  10-30-2010
+Race * Liverpool Invitational * Time* 16:21.98 *Date*  10-16-2010
+Race * Tully Invitational * Time* 17:19.40 *Date*  10-02-2010
+Race * Nike Cross Nationals New York Regional * Time* 16:38.80 *Date*  11-28-2009
+Race * NY Federation Championships * Time* 16:06.96 *Date*  11-21-2009
+Race * NYSPHSAA - New York State Championships * Time* 15:37.50 *Date*  11-14-2009
+Race * Section 3 Championships * Time* 16:20.60 *Date*  11-07-2009
+Race * Chittenango Invitational * Time* 15:48.60 *Date*  09-19-2009
+Race * V-V-S Invitational * Time* 16:53.10 *Date*  09-12-2009
+Race * NY Federation Championship * Time* 17:14.20 *Date*  11-15-2008
+Race * NY State Champs - NYSPHSAA * Time* 16:44.10 *Date*  11-08-2008
+Race * Section 3 Championships * Time* 16:19.10 *Date*  10-31-2008
+Race * Chittenango Invitational * Time* 15:58.23 *Date*  09-13-2008
+Race * V-V-S Invitational * Time* 16:48.30 *Date*  09-06-2008
+Race * V-V-S Invitational * Time* 16:48.30 *Date*  09-06-2008
+Race * Section 3 Championships * Time* 16:20.60 *Date*  11-02-2007
+Distance* 3000
+Race * Wolfpack Last Chance Meet * Time* 09:02.83 *Date*  05-16-2014
+Race * ACC Championship * Time* 08:58.14 *Date*  04-17-2014
+Race * Vertklasse Meeting * Time* 09:07.10 *Date*  04-05-2014
+Race * NCAA Division I East Regional * Time* 08:59.29 *Date*  05-23-2013
+Race * ECAC/IC4A Outdoor Championship * Time* 09:11.32 *Date*  05-10-2013
+Race * Atlantic Coast Conference Championship * Time* 09:08.23 *Date*  04-19-2013
+Race * Duke Invitational * Time* 08:58.04 *Date*  04-05-2013
+Race * Texas Relays * Time* 09:07.57 *Date*  03-27-2013
+Race * Vertklasse Meeting * Time* 09:09.91 *Date*  03-23-2013
+Race * NCAA East Regional * Time* 09:00.35 *Date*  05-24-2012
+Race * IC4A / ECAC Championships * Time* 09:01.59 *Date*  05-11-2012
+Race * The Penn Relays Carnival * Time* 09:10.99 *Date*  04-26-2012
+Race * Atlantic Coast Conference Championship * Time* 09:23.09 *Date*  04-19-2012
+Race * Duke Invitational * Time* 08:58.48 *Date*  04-06-2012
+Race * NYSPHSAA - NY State Champs * Time* 09:27.45 *Date*  06-10-2011
+Race * Section 3 State Qualifier * Time* 09:47.03 *Date*  06-02-2011
+Race * Sec. 3 Boys AA Champs * Time* 09:38.39 *Date*  05-25-2011
+Race * NYSPHSAA - NY State Champs * Time* 09:20.30 *Date*  06-11-2010
+Race * Section 3 State Qualifier * Time* 09:31.59 *Date*  06-03-2010
+Race * Sec 3 Class AA Boys Champs * Time* 09:49.28 *Date*  05-26-2010
+Race * Sec. 3 CNYCL Champs * Time* 09:39.11 *Date*  05-17-2010
+Race * NYSPHSAA  - NY State Champs * Time* 09:50.33 *Date*  06-12-2009
+Race * Sec. 3 Boys Class AA Champs * Time* 09:47.27 *Date*  05-27-2009
+Race * CNYCL Boys League Champs * Time* 10:00.84 *Date*  05-21-2009
+Distance* 4827
+Race * Sec. 3 CNYCL National Div. Champs * Time* 15:39.80 *Date*  10-21-2009
+Race * Baldwinsville Invitational * Time* 15:20.87 *Date*  09-26-2009
+Race * Sec. 3 CNYCL National Div. Champs * Time* 15:23.74 *Date*  10-22-2008
+Race * 44th McQuaid Invitational * Time* 15:07.90 *Date*  09-27-2008
+Distance* 1500
+Race * Duke Twilight Invitational * Time* 03:50.87 *Date*  05-05-2013
+Distance* 10000
+Race * NCAA D1 Southeast Regional * Time* 30:04.10 *Date*  11-15-2013
+Race * NCAA DI Cross Country Championships * Time* 31:33.18 *Date*  11-17-2012
+Race * NCAA D1 Southeast Regional * Time* 31:07.87 *Date*  11-09-2012
+Name* Patrick Tiernan
+Distance* 8000
+Race * Princeton Invitational * Time* 23:55.14 *Date*  10-17-2015
+Race * Lehigh University's Paul Short Run presented by ASICS * Time* 23:54.60 *Date*  10-02-2015
+Race * Big East Championship * Time* 23:45.80 *Date*  10-31-2014
+Race * Washington Invitational * Time* 23:00.13 *Date*  10-04-2014
+Race * Big East Championship * Time* 23:51.14 *Date*  11-02-2013
+Race * Chile Pepper Cross Country Festival * Time* 24:27.14 *Date*  10-05-2013
+Distance* 6436
+Race * Main Line Invitational * Time* 19:16.11 *Date*  09-18-2015
+Race * Main Line Invitational * Time* 19:09.74 *Date*  09-26-2013
+Distance* 5000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 13:55.81 *Date*  06-10-2015
+Race * NCAA Division I East Preliminary * Time* 13:54.83 *Date*  05-28-2015
+Race * Big East Championship * Time* 14:36.85 *Date*  05-08-2015
+Race * Colonial Relays * Time* 13:59.33 *Date*  04-03-2015
+Race * Big East Conference Championships * Time* 14:18.04 *Date*  02-28-2015
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 13:31.25 *Date*  06-11-2014
+Race * NCAA Division I East Preliminary * Time* 14:14.57 *Date*  05-29-2014
+Race * Big East Championship * Time* 13:56.01 *Date*  05-10-2014
+Race * NCAA DI Indoor Track and Field Championships * Time* 14:00.83 *Date*  03-14-2014
+Race * Big East Conference Championships * Time* 14:04.26 *Date*  02-21-2014
+Race * Iowa State Classic * Time* 13:37.73 *Date*  02-14-2014
+Race * Australian Junior Track & Field Championships - 2012-13 * Time* 14:40.59 *Date*  03-14-2012
+Predict the time for the 10000  here: *  
+Distance* 3000
+Race * Big East Conference Championships * Time* 08:18.73 *Date*  02-28-2015
+Race * Big East Conference Championships * Time* 08:10.71 *Date*  02-21-2014
+Race * Penn State National Invitational * Time* 07:57.75 *Date*  01-31-2014
+Distance* 1500
+Race * Australian Junior Track & Field Championships - 2012-13 * Time* 03:50.67 *Date*  03-14-2012
+Name* Sean McGorty
+Distance* 800
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 01:53.11 *Date*  05-31-2013
+Race * On The Run Sports - Falcon Track Classic * Time* 01:53.55 *Date*  05-03-2013
+Race * Nike Spring Invitational * Time* 01:54.75 *Date*  05-05-2012
+Race * Cassel's XBC Track Experience * Time* 01:57.33 *Date*  04-28-2012
+Race * New Balance Outdoor Nationals * Time* 01:55.48 *Date*  06-16-2011
+Race * Cassel's XBC Track Experience * Time* 01:57.96 *Date*  04-30-2011
+Race * Cassel's XBC Track Experience * Time* 02:05.75 *Date*  04-24-2010
+Distance* 1600
+Race * Concorde District Outdoor T&F Championships * Time* 04:13.56 *Date*  05-16-2013
+Race * The Penn Relays Carnival * Time* 04:03.05 *Date*  04-25-2013
+Race * VHSL Group AAA State Indoor Track & Field Championships * Time* 04:11.68 *Date*  02-22-2013
+Race * Concorde District Indoor T&F Championships * Time* 04:11.52 *Date*  01-31-2013
+Race * Liberty Flames High School Invitational * Time* 04:11.56 *Date*  01-11-2013
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 04:16.64 *Date*  06-01-2012
+Race * Northern Region Outdoor T&F Championships * Time* 04:09.19 *Date*  05-24-2012
+Race * Concorde District Outdoor T&F Championships * Time* 04:17.88 *Date*  05-17-2012
+Race * Southern Track Classic * Time* 04:12.31 *Date*  05-11-2012
+Race * The Penn Relays Carnival * Time* 04:20.58 *Date*  04-26-2012
+Race * Northern Region Indoor T&F Championship * Time* 04:16.21 *Date*  02-18-2012
+Race * Concorde District Indoor T&F Championships * Time* 04:15.29 *Date*  01-26-2012
+Race * Flames High School Invitational * Time* 04:19.31 *Date*  01-13-2012
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 04:17.96 *Date*  06-03-2011
+Race * Northern Region Outdoor T&F Championships * Time* 04:21.11 *Date*  05-26-2011
+Race * Concorde District Outdoor T&F Championships * Time* 04:18.85 *Date*  05-19-2011
+Race * Nike Spring Invitational * Time* 04:21.23 *Date*  05-07-2011
+Race * Concorde Pre-District Jamboree * Time* 04:55.31 *Date*  05-04-2011
+Race * Northern Virginia Invitational * Time* 04:26.11 *Date*  04-08-2011
+Race * VHSL Group AAA State Indoor T&F Championships * Time* 04:22.85 *Date*  02-25-2011
+Race * Northern Region Indoor T&F Championship * Time* 04:24.24 *Date*  02-19-2011
+Race * Concorde District Championship * Time* 04:31.85 *Date*  02-01-2011
+Race * Liberty Flames High School Invitational * Time* 04:28.35 *Date*  01-14-2011
+Race * New Balance Outdoor Nationals * Time* 04:35.29 *Date*  06-17-2010
+Race * Northern Region Outdoor T&F Championships * Time* 04:36.70 *Date*  05-27-2010
+Race * Concorde District Outdoor T&F Championships * Time* 04:26.81 *Date*  05-19-2010
+Race * Southern Track Classic * Time* 04:34.57 *Date*  05-07-2010
+Race * Cassel's XBC Track Experience * Time* 04:33.91 *Date*  04-24-2010
+Race * =PR= Northern Virginia Invitational * Time* 04:34.95 *Date*  04-09-2010
+Race * Concorde District Indoor T&F Championships * Time* 04:41.29 *Date*  01-28-2010
+Race * Flames High School Invitational * Time* 04:46.60 *Date*  01-15-2010
+Predict the time for the 1000  here: *  
+Distance* 1609
+Race * University of Washington Indoor Preview * Time* 03:59.34 *Date*  01-17-2015
+Race * Adidas Grand Prix * Time* 04:06.18 *Date*  05-23-2013
+Race * The Penn Relays Carnival * Time* 04:04.47 *Date*  04-25-2013
+Race * Nike Elite Camp Mile * Time* 04:11.95 *Date*  06-29-2012
+Race * Southern Track Classic * Time* 04:13.78 *Date*  05-11-2012
+Race * The Penn Relays Carnival * Time* 04:22.10 *Date*  04-26-2012
+Race * New Balance Indoor Nationals * Time* 04:13.81 *Date*  03-09-2012
+Race * New Balance Outdoor Nationals * Time* 04:17.50 *Date*  06-16-2011
+Race * New Balance Indoor Nationals * Time* 04:26.26 *Date*  03-11-2011
+Race * New Balance Outdoor Nationals * Time* 04:36.90 *Date*  06-17-2010
+Race * Southern Track Classic * Time* 04:36.17 *Date*  05-07-2010
+Race * Nike Indoor Nationals * Time* 04:35.61 *Date*  03-12-2010
+Distance* 3200
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 08:58.07 *Date*  05-31-2013
+Race * Concorde District Outdoor T&F Championships * Time* 09:20.61 *Date*  05-16-2013
+Race * Lake Braddock Hall of Fame Invitational * Time* 08:46.07 *Date*  04-20-2013
+Race * VHSL Group AAA State Indoor Track & Field Championships * Time* 09:06.63 *Date*  02-22-2013
+Race * Concorde District Indoor T&F Championships * Time* 08:55.38 *Date*  01-31-2013
+Race * Southern Maryland Indoor Track Classic * Time* 09:07.50 *Date*  01-05-2013
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 09:05.51 *Date*  06-01-2012
+Race * Concorde District Outdoor T&F Championships * Time* 09:22.04 *Date*  05-17-2012
+Race * Lake Braddock Hall of Fame Invitational * Time* 09:27.67 *Date*  04-21-2012
+Race * VHSL Group AAA State Indoor Championships * Time* 09:25.66 *Date*  02-24-2012
+Race * Northern Region Indoor T&F Championship * Time* 09:23.24 *Date*  02-18-2012
+Race * Concorde District Indoor T&F Championships * Time* 09:41.63 *Date*  01-26-2012
+Race * Montgomery Invitational * Time* 09:25.54 *Date*  01-07-2012
+Race * VHSL Group AAA State Outdoor T&F Championships * Time* 09:12.03 *Date*  06-03-2011
+Race * Northern Region Outdoor T&F Championships * Time* 09:24.39 *Date*  05-26-2011
+Race * Concorde District Outdoor T&F Championships * Time* 09:36.42 *Date*  05-19-2011
+Race * Southern Track Classic * Time* 09:17.40 *Date*  05-13-2011
+Race * Lake Braddock Hall of Fame Invitational * Time* 09:32.62 *Date*  04-15-2011
+Race * VHSL Group AAA State Indoor T&F Championships * Time* 09:33.20 *Date*  02-25-2011
+Race * Northern Region Indoor T&F Championship * Time* 09:43.41 *Date*  02-19-2011
+Race * Concorde District Championship * Time* 09:43.10 *Date*  02-01-2011
+Race * Montgomery Invitational * Time* 09:40.47 *Date*  01-08-2011
+Race * Concorde District Outdoor T&F Championships * Time* 09:58.41 *Date*  05-19-2010
+Race * Nike Spring Invitational * Time* 09:50.27 *Date*  05-01-2010
+Race * Lake Braddock Hall of Fame Invitational * Time* 09:48.58 *Date*  04-16-2010
+Race * Northern Region Indoor T&F Championships * Time* 09:51.95 *Date*  02-20-2010
+Race * Concorde District Indoor T&F Championships * Time* 09:55.99 *Date*  01-28-2010
+Race * Montgomery County Invitational * Time* 10:13.40 *Date*  01-09-2010
+Distance* 8000
+Race * Wisconsin Adidas Invitational * Time* 23:36.20 *Date*  10-16-2015
+Race * Stanford Invitational * Time* 23:07.13 *Date*  09-26-2015
+Race * Pac 12 Cross Country Championships * Time* 24:03.14 *Date*  10-31-2014
+Race * USA Cross Country Championships * Time* 24:44.14 *Date*  02-15-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:39.14 *Date*  10-19-2013
+Race * 40th Stanford Cross Country Invitational * Time* 24:32.14 *Date*  09-28-2013
+Distance* 6000
+Race * NACAC Cross Country Champs * Time* 18:11.30 *Date*  02-22-2014
+Distance* 5000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 13:53.63 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 13:53.10 *Date*  05-28-2015
+Race * Payton Jordan Cardinal Invitational * Time* 13:48.13 *Date*  05-02-2015
+Race * Payton Jordan Cardinal Invitational * Time* 13:37.64 *Date*  05-04-2014
+Race * Foot Locker Nationals * Time* 15:05.90 *Date*  12-08-2012
+Race * Foot Locker South Regional * Time* 14:28.86 *Date*  11-24-2012
+Race * VHSL State Cross Country Championships * Time* 14:47.88 *Date*  11-10-2012
+Race * Glory Days Grill Invitational * Time* 14:45.88 *Date*  10-13-2012
+Race * Octoberfest Invitational * Time* 15:10.91 *Date*  10-06-2012
+Race * Great American Cross Country Festival * Time* 14:43.60 *Date*  09-28-2012
+Race * Oatlands Invitational * Time* 15:26.92 *Date*  09-22-2012
+Race * Foot Locker Nationals * Time* 15:28.92 *Date*  12-09-2011
+Race * Foot Locker South Regional * Time* 14:54.89 *Date*  11-26-2011
+Race * VHSL State Cross Country Championships * Time* 15:21.92 *Date*  11-12-2011
+Race * Quad States Invitational * Time* 15:57.95 *Date*  10-15-2011
+Race * Glory Days Grill Invitational * Time* 15:28.92 *Date*  10-01-2011
+Race * Oatlands Invitational * Time* 15:30.93 *Date*  09-17-2011
+Race * Foot Locker South Regional * Time* 15:31.93 *Date*  11-27-2010
+Race * VHSL State Cross Country Championships * Time* 15:44.94 *Date*  11-13-2010
+Race * The Stampede Cross Country Classic * Time* 16:18.66 *Date*  10-16-2010
+Race * Glory Days Grill Invitational * Time* 15:53.95 *Date*  10-09-2010
+Race * Octoberfest Invitational * Time* 15:45.94 *Date*  10-02-2010
+Race * Oatlands Invitational * Time* 16:31.99 *Date*  09-25-2010
+Race * Foot Locker South Regional * Time* 16:33.99 *Date*  11-28-2009
+Race * Octoberfest Invitational * Time* 16:26.98 *Date*  10-03-2009
+Race * Oatlands Invitational * Time* 16:45.10 *Date*  09-26-2009
+Distance* 3218
+Race * New Balance Outdoor Nationals * Time* 08:45.61 *Date*  06-14-2013
+Race * New Balance Indoor Nationals * Time* 09:02.02 *Date*  03-08-2013
+Race * Scrimmage: Chantilly, Langley, Robinson, Robert E. Lee * Time* 09:30.50 *Date*  08-17-2012
+Race * New Balance Outdoor Nationals * Time* 09:05.27 *Date*  06-14-2012
+Race * Scrimmage:  Chantilly, Lee & Robinson * Time* 09:37.50 *Date*  08-19-2011
+Race * Southern Track Classic * Time* 09:20.65 *Date*  05-13-2011
+Race * New Balance Indoor Nationals * Time* 09:27.41 *Date*  03-11-2011
+Race * Scrimmage: Chantilly, Robert E. Lee * Time* 10:19.25 *Date*  08-20-2010
+Race * Chantilly vs. Lee Scrimmage * Time* 11:22.20 *Date*  08-21-2009
+Distance* 3000
+Race * Husky Classic * Time* 07:54.68 *Date*  02-13-2015
+Race * UW Invitational * Time* 07:59.11 *Date*  01-31-2014
+Distance* 4827
+Race * Northern Region XC Championships * Time* 14:19.85 *Date*  11-02-2012
+Race * Concorde District XC Championships * Time* 14:38.87 *Date*  10-24-2012
+Race * Monroe Parker Invitational * Time* 14:50.89 *Date*  09-08-2012
+Race * Northern Region XC Championships * Time* 14:42.88 *Date*  11-03-2011
+Race * Concorde District XC Championships * Time* 14:57.89 *Date*  10-27-2011
+Race * Bull Run Invitational * Time* 15:53.95 *Date*  09-24-2011
+Race * Monroe Parker Invitational * Time* 15:08.30 *Date*  09-14-2011
+Race * Northern Region XC Championships * Time* 15:26.30 *Date*  11-04-2010
+Race * Concorde District XC Championships * Time* 15:42.94 *Date*  10-27-2010
+Race * Monroe Parker Invitational * Time* 15:17.91 *Date*  09-11-2010
+Race * Northern Region XC Championship * Time* 16:08.96 *Date*  11-05-2009
+Race * Concorde District XC Championships * Time* 16:00.96 *Date*  10-29-2009
+Race * Concorde District Meet #3 * Time* 16:08.86 *Date*  10-15-2009
+Race * Concorde Dist. Meet #1 * Time* 17:19.21 *Date*  09-16-2009
+Race * Monroe Parker Invitational * Time* 16:45.27 *Date*  09-12-2009
+Distance* 1500
+Race * USATF Outdoor Track & Field Championships * Time* 03:49.94 *Date*  06-25-2015
+Race * Pac-12 Championships * Time* 03:51.36 *Date*  05-16-2015
+Race * Pac-12 Championships * Time* 03:47.07 *Date*  05-16-2015
+Race * The BIG Meet - Stanford v California * Time* 03:40.62 *Date*  04-11-2015
+Race * Stanford Invitational * Time* 03:44.82 *Date*  04-04-2014
+Race * USATF Junior Outdoor Track and Field Championship * Time* 03:51.16 *Date*  06-19-2013
+Race * USATF Junior Outdoor Track and Field Championship * Time* 03:49.26 *Date*  06-19-2013
+Race * New Balance Outdoor Nationals * Time* 04:01.37 *Date*  06-16-2011
+Race * New Balance Outdoor Nationals * Time* 04:17.10 *Date*  06-17-2010
+Distance* 10000
+Race * NCAA DI Cross Country Championships * Time* 30:41.90 *Date*  11-22-2014
+Race * NCAA DI Cross Country Championships * Time* 31:53.80 *Date*  11-23-2013
+Race * NCAA D1 West Regional * Time* 29:57.17 *Date*  11-15-2013
+Name* Malachy Schrobilgen
+Distance* 800
+Race * McCarthy Memorial Track Meet * Time* 01:58.70 *Date*  05-04-2012
+Distance* 1600
+Race * IHSA Boys State Championship * Time* 04:14.17 *Date*  05-25-2012
+Race * IHSA Boys State Championship * Time* 04:13.11 *Date*  05-25-2012
+Race * McCarthy Memorial Track Meet * Time* 04:12.10 *Date*  05-04-2012
+Race * Bob Cohoon Invitational * Time* 04:27.68 *Date*  04-20-2012
+Race * Gus Scott Invitational * Time* 04:31.70 *Date*  04-13-2012
+Race * Illinois Prep Top Times * Time* 04:14.32 *Date*  03-23-2012
+Race * West Suburban Silver Boys Conference Championship * Time* 04:23.98 *Date*  03-16-2012
+Race * OPRF / Lake Park Dual * Time* 04:22.26 *Date*  02-23-2012
+Race * McCarthy Memorial Invitational * Time* 04:15.50 *Date*  05-07-2011
+Race * Gus Scott Invitational * Time* 04:25.17 *Date*  04-16-2010
+Distance* 5000
+Race * Big Ten Outdoor Championships * Time* 14:28.84 *Date*  05-15-2015
+Race * Stanford Invitational * Time* 13:53.52 *Date*  04-03-2015
+Race * Big Ten Indoor Conference Championship * Time* 13:58.82 *Date*  02-27-2015
+Race * Big Ten Outdoor Championships * Time* 14:10.50 *Date*  05-16-2014
+Race * Mt. SAC Relays * Time* 14:15.08 *Date*  04-17-2014
+Race * Big Ten Indoor Conference Championship * Time* 13:51.56 *Date*  02-28-2014
+Race * IAAF World Cross Country Championships * Time* 23:12.13 *Date*  03-24-2013
+Race * Foot Locker Nationals * Time* 15:52.30 *Date*  12-09-2011
+Race * Nike Cross Nationals * Time* 15:58.40 *Date*  12-02-2011
+Race * Foot Locker Midwest Regional * Time* 15:13.91 *Date*  11-26-2011
+Race * Nike Cross Nationals Midwest Regional * Time* 15:57.20 *Date*  11-13-2011
+Race * Nike Cross Nationals Midwest Regional * Time* 15:24.40 *Date*  11-14-2010
+Race * Nike Cross Nationals Midwest Regional * Time* 15:40.40 *Date*  11-15-2009
+Distance* 1609
+Race * Minnesota vs. Wisconsin * Time* 04:13.70 *Date*  01-24-2015
+Race * Midwest Distance Festival * Time* 04:14.89 *Date*  06-08-2012
+Race * Midwest Distance Gala * Time* 04:24.05 *Date*  06-12-2010
+Race * Midwest Distance Gala * Time* 04:33.08 *Date*  06-13-2009
+Distance* 3200
+Race * IHSA Boys State Championship * Time* 09:03.42 *Date*  05-25-2012
+Race * West Suburban Silver Boys Conference Championship * Time* 09:27.53 *Date*  03-16-2012
+Race * IHSA Boys T&F State Championships * Time* 09:06.80 *Date*  05-26-2011
+Race * IHSA Boys State T&F Championships * Time* 09:23.88 *Date*  05-27-2010
+Race * IHSA Boys State T&F Championships * Time* 09:34.26 *Date*  05-28-2009
+Predict the time for the 8000  here: *  
+Distance* 6000
+Race * Badger Opener * Time* 18:22.11 *Date*  09-05-2014
+Distance* 3000
+Race * Big Ten Indoor Conference Championship * Time* 08:12.91 *Date*  02-27-2015
+Race * Red & White Open * Time* 08:00.30 *Date*  02-20-2015
+Race * Iowa State Classic * Time* 07:56.58 *Date*  02-13-2015
+Race * Armory Track Invitational * Time* 07:59.08 *Date*  01-30-2015
+Race * Big Ten Indoor Conference Championship * Time* 07:58.76 *Date*  02-28-2014
+Race * New Balance Armory Collegiate Invitational * Time* 08:01.25 *Date*  02-07-2014
+Race * Wisconsin vs. Missouri * Time* 08:17.69 *Date*  01-17-2014
+Distance* 4827
+Race * Illinois State Cross Country Championships * Time* 14:28.86 *Date*  11-05-2011
+Race * 3A Niles West Sectional * Time* 14:44.44 *Date*  10-29-2011
+Race * 3A Fenwick Regional * Time* 14:52.80 *Date*  10-22-2011
+Race * West Suburban Silver Conference Championship * Time* 14:37.60 *Date*  10-15-2011
+Race * Oak Park-River Forest Invitatoinal * Time* 14:35.37 *Date*  09-24-2011
+Race * Richard Springs Invitational * Time* 14:21.86 *Date*  09-17-2011
+Race * Fenton Early Bird Invitational * Time* 15:13.91 *Date*  09-03-2011
+Race * Illinois State Cross Country Championships * Time* 14:32.87 *Date*  11-06-2010
+Race * IHSA Class 3A Oak Park Regional * Time* 15:23.64 *Date*  10-23-2010
+Race * West Suburban Silver Conference Championships * Time* 14:52.89 *Date*  10-16-2010
+Race * Richard Spring Classic * Time* 14:37.87 *Date*  09-18-2010
+Race * Illinois State Championships * Time* 14:56.89 *Date*  11-07-2009
+Race * IHSA Class 3A Niles West Sectional * Time* 15:14.10 *Date*  10-31-2009
+Race * IHSA Class 3A Fenwick Regional * Time* 15:05.90 *Date*  10-24-2009
+Race * Crete Monee Pow Wow * Time* 15:35.60 *Date*  10-03-2009
+Race * Richard Spring Classic * Time* 14:51.89 *Date*  09-19-2009
+Distance* 10000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 29:17.07 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 30:13.27 *Date*  05-28-2015
+Race * Big Ten Outdoor Championships * Time* 29:19.55 *Date*  05-15-2015
+Race * NCAA DI Cross Country Championships * Time* 30:32.60 *Date*  11-22-2014
+Race * NCAA D1 Great Lakes Regional * Time* 30:10.18 *Date*  11-14-2014
+Race * NCAA DI Cross Country Championships * Time* 30:39.10 *Date*  11-23-2013
+Race * NCAA D1 Great Lakes Regional * Time* 30:38.18 *Date*  11-15-2013
+Name* Thomas Curtin
+Distance* 800
+Race * Loudoun County, Broad Run, Tuscarora * Time* 02:04.74 *Date*  05-04-2011
+Distance* 1600
+Race * VHSL Group AA State Outdoor T&F Championships * Time* 04:24.25 *Date*  06-03-2011
+Race * Dulles District Outdoor T&F Championships * Time* 04:26.54 *Date*  05-19-2011
+Race * Cassel's XBC Track Experience * Time* 04:27.07 *Date*  04-30-2011
+Race * Turner Ashby Invitational * Time* 04:23.55 *Date*  04-09-2011
+Race * VHSL Group AA State Outdoor T&F Championships * Time* 04:32.06 *Date*  06-04-2010
+Race * Region II Outdoor T&F Championships * Time* 04:22.74 *Date*  05-27-2010
+Race * Dulles District Outdoor T&F Championships * Time* 04:25.58 *Date*  05-12-2010
+Race * On The Run Sports * Time* 04:27.76 *Date*  04-30-2010
+Race * Apple Blossom Invitational * Time* 04:29.28 *Date*  04-24-2010
+Race * Loudoun County Dual Meet * Time* 05:31.84 *Date*  04-23-2008
+Distance* 1000
+Race * Hokie Invitational * Time* 02:26.03 *Date*  01-23-2015
+Distance* 1609
+Race * Virginia Tech Invitational * Time* 04:09.63 *Date*  01-16-2015
+Race * Virginia Tech Invitational * Time* 04:20.34 *Date*  01-17-2014
+Race * VT Challenge * Time* 04:10.69 *Date*  02-15-2013
+Race * VT Last Chance * Time* 04:23.69 *Date*  03-03-2012
+Race * VT Challenge * Time* 04:16.28 *Date*  02-17-2012
+Distance* 3200
+Race * VHSL Group AA State Outdoor T&F Championships * Time* 09:25.62 *Date*  06-03-2011
+Race * Region II Outdoor T&F Championships * Time* 09:39.50 *Date*  05-26-2011
+Race * Dulles District Outdoor T&F Championships * Time* 09:28.48 *Date*  05-19-2011
+Race * Southern Track Classic * Time* 09:09.60 *Date*  05-13-2011
+Race * On The Run Sports  Falcon Track Classic * Time* 09:14.33 *Date*  04-29-2011
+Race * Turner Ashby Invitational * Time* 09:32.77 *Date*  04-09-2011
+Race * VHSL Group AA State Outdoor T&F Championships * Time* 09:23.41 *Date*  06-04-2010
+Race * Region II Outdoor T&F Championships * Time* 09:48.23 *Date*  05-27-2010
+Race * Dulles District Outdoor T&F Championships * Time* 09:41.58 *Date*  05-12-2010
+Race * Southern Track Classic * Time* 09:23.49 *Date*  05-07-2010
+Race * Nike Spring Invitational * Time* 09:32.05 *Date*  05-01-2010
+Race * John Handley Invitational * Time* 09:38.44 *Date*  04-17-2010
+Race * Turner Ashby Invitational * Time* 09:48.14 *Date*  04-10-2010
+Race * Region II Outdoor T&F Championships * Time* 10:02.72 *Date*  05-20-2009
+Race * Dulles District Outdoor T&F Championships * Time* 10:04.92 *Date*  05-13-2009
+Race * Millbrook Invitational * Time* 10:03.11 *Date*  05-08-2009
+Race * Nike Spring Invitational * Time* 10:10.25 *Date*  05-02-2009
+Race * Apple Blossom Invitational * Time* 10:26.86 *Date*  04-25-2009
+Race * Turner Ashby Invitational * Time* 11:21.76 *Date*  04-04-2009
+Race * Loudoun County Dual Meet * Time* 10:48.24 *Date*  04-01-2009
+Race * Loudoun County Dual Meet * Time* 12:12.24 *Date*  04-23-2008
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:18.20 *Date*  10-17-2015
+Race * Princeton Inter-Regional Meet * Time* 24:05.60 *Date*  10-03-2015
+Race * Virginia Tech Alumni Invite * Time* 25:10.70 *Date*  09-18-2015
+Race * ACC Championship * Time* 24:02.20 *Date*  11-01-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:01.40 *Date*  10-19-2013
+Race * ACC Championships * Time* 23:56.30 *Date*  10-27-2012
+Race * NCAA Pre-Nationals * Time* 24:10.40 *Date*  10-13-2012
+Race * ACC Championships * Time* 24:20.30 *Date*  10-29-2011
+Race * UNC Charlotte Invitational * Time* 25:23.31 *Date*  09-30-2011
+Race * Clemson Invitational * Time* 25:02.23 *Date*  09-16-2011
+Predict the time for the 10000  here: *  
+Distance* 5000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 13:52.11 *Date*  06-10-2015
+Race * ACC Championship * Time* 13:59.33 *Date*  05-14-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 13:57.87 *Date*  03-13-2015
+Race * Iowa State Classic * Time* 13:38.56 *Date*  02-13-2015
+Race * Portland Track Festival * Time* 13:59.55 *Date*  06-07-2013
+Race * NCAA Division I East Regional * Time* 14:26.05 *Date*  05-23-2013
+Race * Oxy Invitational * Time* 14:07.98 *Date*  05-04-2013
+Race * Atlantic Coast Conference Championship * Time* 13:58.77 *Date*  04-19-2013
+Race * ACC Indoor Championship * Time* 14:01.65 *Date*  02-22-2013
+Race * Husky Classic * Time* 14:02.73 *Date*  02-08-2013
+Race * NCAA East Regional * Time* 14:25.06 *Date*  05-24-2012
+Race * Wolfpack Last Chance * Time* 14:02.86 *Date*  05-13-2012
+Race * Payton Jordan Cardinal Invitational * Time* 14:43.47 *Date*  04-29-2012
+Race * Atlantic Coast Conference Championship * Time* 14:13.33 *Date*  04-19-2012
+Race * Colonial Relays * Time* 14:07.71 *Date*  04-05-2012
+Race * ACC Indoor Championship * Time* 14:31.19 *Date*  02-23-2012
+Race * Foot Locker South Regional * Time* 15:22.92 *Date*  11-27-2010
+Race * VHSL State Cross Country Championships * Time* 15:38.93 *Date*  11-13-2010
+Race * Region II XC Championships * Time* 16:09.96 *Date*  11-04-2010
+Race * Dulles District XC Championships * Time* 16:18.97 *Date*  10-20-2010
+Race * Broad Run, Loudoun County, Tuscarora * Time* 17:30.10 *Date*  10-13-2010
+Race * Glory Days Grill Invitational * Time* 15:42.94 *Date*  10-09-2010
+Race * Loudoun County, Potomac Falls, Dominion * Time* 16:56.10 *Date*  10-06-2010
+Race * Great American Cross Country Festival * Time* 15:36.80 *Date*  10-01-2010
+Race * Oatlands Invitational * Time* 16:28.98 *Date*  09-25-2010
+Race * Briar Woods, Loudoun County, Woodgrove * Time* 17:04.10 *Date*  09-22-2010
+Race * Judges Classic * Time* 16:18.97 *Date*  09-11-2010
+Race * Great Meadow Invitational * Time* 16:05.96 *Date*  08-28-2010
+Race * Foot Locker South Regional * Time* 15:28.92 *Date*  11-28-2009
+Race * VHSL State Cross Country Championships * Time* 16:04.96 *Date*  11-14-2009
+Race * Region II XC Championships * Time* 16:08.92 *Date*  11-03-2009
+Race * Dulles District XC Championships * Time* 16:58.10 *Date*  10-22-2009
+Race * Albemarle Invitational * Time* 15:48.48 *Date*  10-10-2009
+Race * Great American XC Festival * Time* 16:02.96 *Date*  10-02-2009
+Race * Oatlands Invitational * Time* 16:24.98 *Date*  09-26-2009
+Race * 35th annual Judges Classic * Time* 16:41.10 *Date*  09-10-2009
+Race * Great Meadow Invitational * Time* 16:32.99 *Date*  08-29-2009
+Race * Region II Championships * Time* 17:18.10 *Date*  10-30-2008
+Race * Dulles District Championships * Time* 17:43.75 *Date*  10-23-2008
+Race * Glory Days Grill Invitational * Time* 17:19.10 *Date*  10-11-2008
+Race * Oatlands Invitational * Time* 17:41.10 *Date*  09-20-2008
+Race * Judges Classic * Time* 17:50.10 *Date*  09-11-2008
+Race * Glory Days Grill Invitational * Time* 17:52.10 *Date*  10-13-2007
+Race * Octoberfest Invitational * Time* 17:59.38 *Date*  10-06-2007
+Distance* 3218
+Race * Southern Track Classic * Time* 09:12.81 *Date*  05-13-2011
+Race * Southern Track Classic * Time* 09:26.78 *Date*  05-07-2010
+Distance* 3000
+Race * NCAA DI Indoor Track and Field Championships * Time* 08:03.56 *Date*  03-13-2015
+Race * ACC Championships * Time* 07:52.92 *Date*  02-26-2015
+Race * Hilton Garden Innvitational * Time* 07:56.10 *Date*  01-30-2015
+Race * ACC Indoor Championship * Time* 08:22.47 *Date*  02-22-2013
+Race * Hokie Invitational (College) * Time* 08:07.83 *Date*  01-25-2013
+Race * SPIRE Division I Indoor Track & Field Invite * Time* 08:09.37 *Date*  02-10-2012
+Distance* 1500
+Race * Portland Track Festival * Time* 03:45.85 *Date*  06-13-2015
+Race * Virginia Tech/Roanoke Twilight Meet * Time* 03:47.25 *Date*  05-07-2015
+Race * Sea Ray Relays * Time* 03:51.61 *Date*  04-09-2015
+Race * Roanoke College/Virginia Tech Last Qualifier * Time* 03:53.10 *Date*  05-09-2013
+Race * Colonial Relays * Time* 03:51.64 *Date*  04-05-2013
+Race * VA Tech-Roanoke College Twilight Qualifier * Time* 03:52.98 *Date*  05-10-2012
+Race * Raleigh Relays * Time* 03:56.49 *Date*  03-30-2012
+Name* Jonathan Green
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:28.70 *Date*  10-17-2015
+Race * Lehigh University's Paul Short Run presented by ASICS * Time* 23:58.60 *Date*  10-02-2015
+Race * Salty Dog Invitational * Time* 25:42.50 *Date*  09-12-2015
+Race * Big East Championship * Time* 23:52.70 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:48.80 *Date*  10-18-2014
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:59.14 *Date*  09-26-2014
+Predict the time for the 1000  here: *  
+Distance* 1609
+Race * Nittany Lion Challenge * Time* 04:15.77 *Date*  01-17-2015
+Race * MIAA Western / Central Divsion 1 Championships * Time* 04:39.65 *Date*  05-27-2013
+Race * District E Boys Class Championships * Time* 04:32.25 *Date*  05-11-2013
+Race * Weston Twilight Invitational * Time* 04:31.57 *Date*  05-04-2013
+Race * Tri County League Championships * Time* 04:35.11 *Date*  02-07-2013
+Race * New Balance Grand Prix * Time* 04:24.12 *Date*  02-02-2013
+Race * Tri County League # 6 * Time* 04:34.74 *Date*  01-29-2013
+Race * Tri-County League Indoor Championships * Time* 04:28.60 *Date*  02-09-2012
+Race * Tri-County League Indoor Meet #6 * Time* 04:30.03 *Date*  01-24-2012
+Race * Tri-County League Indoor Meet #5 * Time* 04:24.75 *Date*  01-09-2012
+Race * Tri-County League Indoor Meet #3 * Time* 04:28.54 *Date*  12-28-2011
+Race * Tri-County League Indoor Meet #2 * Time* 04:30.95 *Date*  12-20-2011
+Distance* 10000
+Race * NCAA Division I East Preliminary * Time* 30:01.12 *Date*  05-28-2015
+Race * Mt. SAC Relays * Time* 29:06.52 *Date*  04-16-2015
+Race * NCAA DI Cross Country Championships * Time* 31:34.70 *Date*  11-22-2014
+Race * 2014 IAAF World Junior Championships * Time* 31:15.69 *Date*  07-22-2014
+Race * USATF Junior National Outdoor T&F Championships * Time* 30:54.62 *Date*  07-05-2014
+Distance* 3000
+Race * Penn State National * Time* 08:08.31 *Date*  01-30-2015
+Distance* 3218
+Race * MIAA Western / Central Divsion 1 Championships * Time* 09:43.36 *Date*  05-27-2013
+Race * MIAA Auerbach All State Meet * Time* 09:21.48 *Date*  02-23-2013
+Race * MIAA Division 1 Championships * Time* 09:28.85 *Date*  02-16-2013
+Race * Tri County League Championships * Time* 09:39.06 *Date*  02-07-2013
+Race * Tri County League # 6 * Time* 09:56.11 *Date*  01-29-2013
+Race * Massachusetts (MIAA) All-State Outdoor Championship * Time* 09:25.19 *Date*  06-05-2012
+Race * Massachusetts (MIAA) Central Division Outdoor Championships * Time* 09:46.32 *Date*  05-26-2012
+Race * Fred Warren District E * Time* 09:35.07 *Date*  05-17-2012
+Race * Massachusetts (MIAA) All-State Indoor Championships * Time* 09:21.68 *Date*  02-26-2012
+Race * Massachusetts (MIAA) Division 1 Indoor Championships * Time* 09:32.01 *Date*  02-19-2012
+Race * Tri-County League Indoor Championships * Time* 09:47.06 *Date*  02-09-2012
+Race * McIntyre Elite Meet * Time* 09:34.53 *Date*  01-29-2012
+Race * Tri-County League Indoor Meet #4 * Time* 09:33.89 *Date*  01-05-2012
+Race * Massachusetts (MIAA) All-State Outdoor Championship * Time* 09:46.85 *Date*  06-04-2011
+Race * Massachusetts (MIAA) Central Division Outdoor Championships * Time* 09:37.81 *Date*  05-28-2011
+Race * District E Class Championships * Time* 09:56.31 *Date*  05-14-2011
+Race * Massachusetts (MIAA) All-State Outdoor Championship * Time* 09:59.18 *Date*  06-05-2010
+Race * Massachusetts (MIAA) Central Division Outdoor Championships * Time* 09:46.80 *Date*  05-29-2010
+Distance* 600
+Race * Tri-County League Indoor Meet #3 * Time* 01:30.66 *Date*  12-28-2011
+Distance* 1500
+Race * New Balance Boston Twilight Series # 4 * Time* 04:05.69 *Date*  06-09-2012
+Distance* 5000
+Race * Big East Championship * Time* 14:49.61 *Date*  05-08-2015
+Race * Colonial Relays * Time* 14:03.39 *Date*  04-03-2015
+Race * Big East Conference Championships * Time* 14:21.66 *Date*  02-28-2015
+Race * David Hemery Valentine Invitational * Time* 14:02.05 *Date*  02-13-2015
+Race * Foot Locker Nationals * Time* 15:45.94 *Date*  12-08-2012
+Race * Foot Locker Northeast Regional * Time* 15:36.80 *Date*  11-24-2012
+Race * MIAA All State Finals * Time* 15:29.67 *Date*  11-17-2012
+Race * Bay State Invitational Meet * Time* 15:54.30 *Date*  10-20-2012
+Race * Wachusett Invitational * Time* 15:55.60 *Date*  10-13-2012
+Race * Ocean State XC Invitational * Time* 15:29.92 *Date*  09-29-2012
+Race * New Balance Indoor Nationals * Time* 15:22.93 *Date*  03-09-2012
+Race * Foot Locker Nationals * Time* 15:45.40 *Date*  12-09-2011
+Race * Foot Locker Northeast Regional * Time* 15:52.50 *Date*  11-26-2011
+Race * Massachusetts (MIAA) All-State Cross Country Championships * Time* 15:41.94 *Date*  11-19-2011
+Race * Wachusett Invitational * Time* 16:49.10 *Date*  10-22-2011
+Race * Catholic Memorial Invitational * Time* 15:56.95 *Date*  10-15-2011
+Race * New Balance Ocean State Invitational * Time* 15:58.95 *Date*  09-23-2011
+Race * Brown Invitational * Time* 15:35.80 *Date*  10-16-2010
+Race * New Balance Ocean State Invitational * Time* 16:41.10 *Date*  09-24-2010
+Name* Marc Scott
+Distance* 8000
+Race * Wisconsin Adidas Invitational * Time* 23:35.14 *Date*  10-16-2015
+Race * Chile Pepper Cross Country Festival * Time* 23:30.90 *Date*  10-03-2015
+Race * American Athletic Conference Championships * Time* 24:43.14 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:24.50 *Date*  10-18-2014
+Race * Notre Dame Adidas Invitational * Time* 23:51.90 *Date*  10-03-2014
+Race * Conference USA Championship * Time* 25:16.18 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:57.70 *Date*  10-19-2013
+Race * Notre Dame Adidas Invitational * Time* 24:37.60 *Date*  10-04-2013
+Race * Conference USA Championships * Time* 24:36.60 *Date*  10-29-2012
+Race * NCAA Pre-Nationals * Time* 24:22.80 *Date*  10-13-2012
+Race * Notre Dame Invitational * Time* 25:13.15 *Date*  09-28-2012
+Distance* 6436
+Race * Hurricane Cross Country Festival * Time* 21:02.12 *Date*  08-30-2014
+Race * Hurricane Cross Country Festival * Time* 21:01.12 *Date*  08-31-2013
+Predict the time for the 5000  here: *  
+Distance* 1609
+Race * Tyson Invitational * Time* 04:11.43 *Date*  02-08-2013
+Race * K-State Wildcat Invitational * Time* 04:16.13 *Date*  01-19-2013
+Distance* 10000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 29:37.18 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 29:48.51 *Date*  05-28-2015
+Race * American Conference Championship * Time* 30:40.55 *Date*  05-14-2015
+Race * Stanford Invitational * Time* 28:30.33 *Date*  04-03-2015
+Race * NCAA DI Cross Country Championships * Time* 30:38.60 *Date*  11-22-2014
+Race * NCAA D1 Midwest Regional * Time* 30:10.40 *Date*  11-14-2014
+Race * NCAA DI Cross Country Championships * Time* 32:13.30 *Date*  11-23-2013
+Race * NCAA D1 Midwest Regional * Time* 30:34.90 *Date*  11-15-2013
+Race * Conference USA Outdoor Championships * Time* 31:00.91 *Date*  05-09-2013
+Race * NCAA DI Cross Country Championships * Time* 30:39.30 *Date*  11-17-2012
+Race * NCAA D1 Midwest Regional * Time* 31:00.29 *Date*  11-09-2012
+Distance* 3000
+Race * AAC Indoor Conference Championship * Time* 08:01.77 *Date*  02-27-2015
+Race * Arkansas Razorback Invitational * Time* 07:55.37 *Date*  01-30-2015
+Race * Nebraska Quad * Time* 08:33.22 *Date*  04-13-2013
+Race * Conference USA Championships * Time* 08:16.85 *Date*  02-23-2013
+Race * Notre Dame Meyo Invitational * Time* 08:13.25 *Date*  02-01-2013
+Distance* 1500
+Race * Arkansas Spring Invitational * Time* 03:58.61 *Date*  03-29-2013
+Name* Joe Rosa
+Distance* 800
+Race * Cal Opener * Time* 01:57.27 *Date*  03-03-2012
+Race * Mercer County Indoor Championships * Time* 02:02.31 *Date*  01-31-2011
+Race * Sparton Frosh/Soph Invitational * Time* 01:57.90 *Date*  05-16-2009
+Distance* 1600
+Race * NJSIAA Group Championships 2,3 & NP B * Time* 04:10.78 *Date*  06-03-2011
+Race * NJSIAA Sectional Championships - CJ 2 & 3 * Time* 04:19.96 *Date*  05-27-2011
+Race * NJSIAA Meet of Champions * Time* 04:17.36 *Date*  02-26-2011
+Race * NJSIAA Group Championships 2/3 * Time* 04:22.66 *Date*  02-19-2011
+Race * NJSIAA Sectional Championsips - CJ 2/3 * Time* 04:27.25 *Date*  02-03-2011
+Race * NJSIAA Group Championships * Time* 04:11.16 *Date*  05-28-2010
+Race * NJSIAA State Sectionals * Time* 04:12.69 *Date*  05-21-2010
+Race * Mercer County Championships * Time* 04:12.08 *Date*  05-08-2010
+Race * Haddonfield Running Co. Elite H.S. Open * Time* 04:13.77 *Date*  06-11-2009
+Race * NJSIAA Meet of Champions * Time* 04:15.03 *Date*  06-04-2009
+Race * NJSIAA Group Championships - So. Plainfield * Time* 04:18.43 *Date*  05-29-2009
+Race * NJSIAA Sectional Championships * Time* 04:18.99 *Date*  05-22-2009
+Race * Mercer Co. Championsips * Time* 04:15.68 *Date*  05-09-2009
+Race * Mercer County Championships * Time* 04:18.23 *Date*  02-01-2009
+Distance* 4000
+Race * Manhattan College Invitational * Time* 12:03.80 *Date*  10-10-2009
+Race * Manhattan College Invitational * Time* 12:19.99 *Date*  10-11-2008
+Race * New Balance Manhattan College XC Invitational * Time* 12:59.26 *Date*  10-13-2007
+Distance* 5000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 13:31.69 *Date*  06-11-2014
+Race * NCAA Division I West Preliminary * Time* 14:12.86 *Date*  05-29-2014
+Race * Pac 12 Championships * Time* 13:50.59 *Date*  05-17-2014
+Race * Payton Jordan Cardinal Invitational * Time* 13:33.56 *Date*  05-04-2014
+Race * NCAA DI Indoor Track and Field Championships * Time* 13:55.84 *Date*  03-14-2014
+Race * Mountain Pacific Sports Federation Championships * Time* 13:44.85 *Date*  02-28-2014
+Race * Husky Classic * Time* 13:56.76 *Date*  02-14-2014
+Race * Payton Jordan Cardinal Invitational * Time* 14:10.17 *Date*  04-28-2013
+Race * Stanford Invitational * Time* 14:19.05 *Date*  03-29-2013
+Race * Mountain Pacific Sports Federation Championships * Time* 13:58.74 *Date*  02-22-2013
+Race * NCAA West Regional * Time* 15:01.50 *Date*  05-24-2012
+Race * Pac-12 Championships * Time* 14:25.08 *Date*  05-12-2012
+Race * Payton Jordan Cardinal Invitational * Time* 14:04.37 *Date*  04-29-2012
+Race * Mountain Pacific Sports Federation Championships * Time* 14:18.35 *Date*  02-24-2012
+Race * Flotrack Husky Classic * Time* 14:06.52 *Date*  02-10-2012
+Race * Mercer Twilight Invitational * Time* 14:13.68 *Date*  05-07-2011
+Race * Mercer Twilight Invitational * Time* 14:28.94 *Date*  05-01-2010
+Race * Nike Cross Nationals * Time* 15:09.80 *Date*  12-05-2009
+Race * NJSIAA Meet of Champions * Time* 14:56.89 *Date*  11-21-2009
+Race * NJSIAA Group Championships * Time* 15:37.93 *Date*  11-14-2009
+Race * NJSIAA Sectional Championships - CJ * Time* 15:56.95 *Date*  11-07-2009
+Race * Mercer Co. Championships * Time* 16:06.40 *Date*  10-30-2009
+Race * Shore Coaches Invitational * Time* 15:04.90 *Date*  10-03-2009
+Race * Briarwood Invitational * Time* 15:19.20 *Date*  09-19-2009
+Race * Nike Cross Nationals * Time* 15:19.91 *Date*  12-06-2008
+Race * Nike Cross Nationals Northeast Regional * Time* 15:56.60 *Date*  11-29-2008
+Race * NJSIAA Meet of Champions * Time* 15:47.94 *Date*  11-22-2008
+Race * NJSIAA Group Championships * Time* 15:51.95 *Date*  11-16-2008
+Race * NJSIAA Sectional Championships - Central * Time* 15:36.04 *Date*  11-08-2008
+Race * Mercer County Championships * Time* 15:12.90 *Date*  10-31-2008
+Race * Shore Coaches Invitational * Time* 15:38.93 *Date*  10-04-2008
+Race * Briarwood Invitational * Time* 15:33.10 *Date*  09-20-2008
+Race * NJSIAA Meet of Champions * Time* 16:18.97 *Date*  11-17-2007
+Race * NJSIAA Group Championships * Time* 16:16.97 *Date*  11-10-2007
+Race * NJSIAA Central Sectional Championships * Time* 16:12.04 *Date*  11-03-2007
+Race * Mercer County Championships * Time* 16:04.46 *Date*  10-26-2007
+Race * Shore Coaches Invitational * Time* 16:24.98 *Date*  10-06-2007
+Race * Briarwood Invitational * Time* 16:27.98 *Date*  09-15-2007
+Distance* 1609
+Race * University of Washington Indoor Preview * Time* 04:01.72 *Date*  01-18-2014
+Race * New Balance Armory Collegiate Invitational * Time* 04:11.76 *Date*  02-01-2013
+Race * UW Invitational * Time* 04:15.78 *Date*  01-25-2013
+Race * Texas Relays * Time* 04:13.90 *Date*  03-28-2012
+Race * University of Washington Indoor Preview * Time* 04:09.84 *Date*  01-14-2012
+Race * adidas Grand Prix * Time* 04:07.66 *Date*  06-11-2011
+Race * adidas Grand Prix * Time* 04:08.65 *Date*  06-12-2010
+Predict the time for the 3200  here: *  
+Distance* 8000
+Race * Washington Invitational * Time* 23:20.70 *Date*  10-02-2015
+Race * Pac 12 Cross Country Championships * Time* 23:37.14 *Date*  10-31-2014
+Race * Wisconsin Adidas Invitational * Time* 23:56.14 *Date*  10-17-2014
+Race * Stanford Invitational * Time* 23:16.13 *Date*  09-27-2014
+Race * University of San Francisco Invitational * Time* 25:26.70 *Date*  08-30-2014
+Race * Pac 12 Cross Country Championships * Time* 23:35.14 *Date*  10-27-2012
+Race * Wisconsin Adidas Invitational * Time* 23:44.14 *Date*  10-12-2012
+Race * 39th Stanford Cross Country Invitational * Time* 24:10.14 *Date*  09-29-2012
+Race * Pac 12 Cross Country Championships * Time* 23:57.14 *Date*  10-29-2011
+Race * Wisconsin Adidas Invitational * Time* 24:53.30 *Date*  10-14-2011
+Distance* 6000
+Race * Fresno State Invitational * Time* 18:33.70 *Date*  09-11-2015
+Distance* 3218
+Race * New Balance Outdoor Nationals * Time* 08:54.46 *Date*  06-16-2011
+Race * 74th Eastern States Championships * Time* 09:21.44 *Date*  03-01-2011
+Race * New Balance Outdoor Nationals * Time* 08:44.06 *Date*  06-17-2010
+Race * Nike Outdoor Nationals * Time* 09:12.91 *Date*  06-18-2009
+Race * Knight XC Invitational * Time* 09:38.22 *Date*  09-13-2008
+Race * Hispanic Games * Time* 09:45.99 *Date*  01-05-2008
+Distance* 3000
+Race * Stanford Big Meet * Time* 08:04.56 *Date*  04-12-2014
+Race * Stanford Big Meet * Time* 08:05.74 *Date*  04-20-2013
+Race * Mountain Pacific Sports Federation Championships * Time* 08:08.84 *Date*  02-22-2013
+Race * Husky Classic * Time* 08:08.14 *Date*  02-08-2013
+Race * Stanford Big Meet * Time* 08:09.93 *Date*  04-14-2012
+Race * Mountain Pacific Sports Federation Championships * Time* 08:14.76 *Date*  02-24-2012
+Race * Arkansas Razorback Invitational * Time* 08:13.30 *Date*  01-27-2012
+Race * New Balance Outdoor Nationals * Time* 08:18.39 *Date*  06-16-2011
+Race * Nike Outdoor Nationals * Time* 08:34.28 *Date*  06-18-2009
+Distance* 1500
+Race * Stanford Invitational * Time* 03:47.05 *Date*  04-04-2014
+Race * Stanford Invitational * Time* 03:50.28 *Date*  04-06-2012
+Race * Cal Opener * Time* 03:51.82 *Date*  03-03-2012
+Distance* 10000
+Race * NCAA DI Cross Country Championships * Time* 30:51.18 *Date*  11-22-2014
+Race * NCAA D1 West Regional * Time* 29:41.80 *Date*  11-14-2014
+Race * Pac 12 Championships * Time* 29:16.71 *Date*  05-17-2014
+Race * NCAA DI Cross Country Championships * Time* 30:51.20 *Date*  11-17-2012
+Race * NCAA DI West Regional * Time* 29:44.17 *Date*  11-10-2012
+Race * NCAA DI Cross Country Championships * Time* 31:13.60 *Date*  11-21-2011
+Race * NCAA D1 West Regional * Time* 29:53.17 *Date*  11-12-2011
+Name* Pierce Murphy
+Predict the time for the 800  here: *  
+Distance* 1600
+Race * Mt. Carmel/Asics Invitational * Time* 04:29.52 *Date*  03-28-2009
+Distance* 5000
+Race * NCAA Division I West Preliminary * Time* 14:43.35 *Date*  05-28-2015
+Race * Pac-12 Championships * Time* 13:48.43 *Date*  05-16-2015
+Race * Payton Jordan Cardinal Invitational * Time* 13:37.05 *Date*  05-02-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 13:54.36 *Date*  03-13-2015
+Race * Husky Classic * Time* 13:39.29 *Date*  02-13-2015
+Race * NCAA Division I West Preliminary * Time* 14:20.81 *Date*  05-29-2014
+Race * Pac 12 Championships * Time* 14:10.17 *Date*  05-17-2014
+Race * Payton Jordan Cardinal Invitational * Time* 13:48.74 *Date*  05-04-2014
+Race * Husky Classic * Time* 13:56.37 *Date*  02-14-2014
+Race * Pac 12 Championships * Time* 14:29.57 *Date*  05-04-2013
+Race * Mt. SAC Relays * Time* 14:04.21 *Date*  04-18-2013
+Race * Foot Locker West Regional * Time* 16:26.98 *Date*  12-04-2010
+Race * Foot Locker West Regionals * Time* 16:37.99 *Date*  12-05-2009
+Race * Hawaii State Cross Country Championships * Time* 17:58.70 *Date*  11-02-2007
+Distance* 1609
+Race * Air Force Team Challenge * Time* 04:30.92 *Date*  01-28-2012
+Race * Arcadia Invitational * Time* 04:19.86 *Date*  04-08-2011
+Race * Arcadia Invitational * Time* 04:25.98 *Date*  04-09-2010
+Distance* 3200
+Race * Arcadia Invitational * Time* 09:14.09 *Date*  04-08-2011
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:24.40 *Date*  10-17-2015
+Race * Rocky Mountain Shootout * Time* 24:26.14 *Date*  10-03-2015
+Race * Pac 12 Cross Country Championships * Time* 23:53.14 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:25.60 *Date*  10-18-2014
+Race * Rocky Mountain Shootout * Time* 24:24.40 *Date*  10-04-2014
+Race * CU Alumni/Open Time Trial * Time* 25:55.90 *Date*  08-30-2014
+Race * Pac 12 Cross Country Championships * Time* 25:00.15 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:56.10 *Date*  10-19-2013
+Race * Rocky Mountain Shootout * Time* 25:42.15 *Date*  09-28-2013
+Race * CU Alumni/Open Time Trial * Time* 26:21.15 *Date*  08-31-2013
+Race * Pac 12 Cross Country Championships * Time* 23:50.14 *Date*  10-27-2012
+Race * NCAA Pre-Nationals * Time* 23:49.50 *Date*  10-13-2012
+Distance* 400
+Race * KIF Qualifying Meet #3 * Time* 54.95 *Date*  03-10-2011
+Race * 2010 Kauai Rotary Meet * Time* 56.29 *Date*  04-16-2010
+Race * KIF Qualify 4 Track Meet * Time* 57.14 *Date*  04-01-2010
+Distance* 3000
+Race * Mountain Pacific Sports Federation Championships * Time* 07:59.73 *Date*  02-27-2015
+Race * Air Force Invitational * Time* 08:38.92 *Date*  01-22-2015
+Race * Mountain Pacific Sports Federation Championships * Time* 08:03.35 *Date*  02-28-2014
+Race * Air Force Invitational * Time* 08:50.56 *Date*  01-23-2014
+Race * Jerry Quiller Classic * Time* 08:35.56 *Date*  03-15-2013
+Race * HHSAA Track and Field Championship * Time* 08:52.44 *Date*  05-06-2011
+Race * HHSAA Track and Field Championship * Time* 09:38.52 *Date*  05-06-2011
+Race * KIF Track and Field Championship * Time* 09:03.75 *Date*  04-21-2011
+Race * KIF Qualifying Meet #5 * Time* 08:48.58 *Date*  03-31-2011
+Race * Henry Lee Invitational * Time* 08:59.28 *Date*  03-05-2011
+Race * KIF Qualifying Meet #1 * Time* 08:52.41 *Date*  02-24-2011
+Race * HHSAA State Track & Field Championships * Time* 09:41.16 *Date*  05-14-2010
+Race * HHSAA State Track & Field Championships * Time* 08:53.47 *Date*  05-14-2010
+Race * 2010 KIF Track and Field Championship * Time* 09:05.90 *Date*  04-29-2010
+Race * KIF Qualifying Meet #6 * Time* 09:00.30 *Date*  04-23-2010
+Race * 2010 Kauai Rotary Meet * Time* 09:28.57 *Date*  04-16-2010
+Race * KIF Qualify 4 Track Meet * Time* 09:42.58 *Date*  04-01-2010
+Race * Blue and Gold * Time* 09:08.55 *Date*  03-26-2010
+Race * KIF Qualify 1 Track Meet * Time* 09:21.43 *Date*  03-05-2010
+Race * KIF Qualify 1 Track Meet * Time* 09:21.43 *Date*  03-05-2010
+Race * HHSAA State Track & Field Championships * Time* 09:21.14 *Date*  05-15-2009
+Race * HHSAA State Track & Field Championships * Time* 09:03.73 *Date*  05-15-2009
+Race * KIF Track Championships * Time* 09:42.14 *Date*  04-30-2009
+Race * KIF Qualifier Meet #6 * Time* 09:42.91 *Date*  04-24-2009
+Distance* 4827
+Race * 2010 HHSAA Cross Country Championships * Time* 16:17.80 *Date*  10-28-2010
+Race * Mt SAC Invitational * Time* 15:21.92 *Date*  10-22-2010
+Race * 2010 KIF Cross Country Championships * Time* 15:33.60 *Date*  10-16-2010
+Race * KIF Cross Country Week 4 @ KCC * Time* 15:58.50 *Date*  10-02-2010
+Race * KIF Cross Country Week 3 @ Island School * Time* 14:58.60 *Date*  09-25-2010
+Race * Iolani Cross Country Invitational * Time* 15:25.92 *Date*  09-18-2010
+Race * KIF Cross Country Week 1 @ Kapaa * Time* 15:35.40 *Date*  09-11-2010
+Race * Waimea Cross Country Invitational * Time* 15:59.30 *Date*  09-04-2010
+Race * HHSAA State Championships * Time* 16:18.35 *Date*  10-31-2009
+Race * Mt. Sac Invitational * Time* 16:15.97 *Date*  10-23-2009
+Race * KIF Cross Country Invitational * Time* 15:55.50 *Date*  09-15-2009
+Race * James Campbell Invitational * Time* 16:20.55 *Date*  09-05-2009
+Distance* 1500
+Race * Bryan Clay Invitational * Time* 03:44.31 *Date*  04-17-2015
+Race * Bryan Clay Invitational * Time* 03:47.39 *Date*  04-17-2014
+Race * Colorado Invitational * Time* 03:54.44 *Date*  04-11-2014
+Race * HHSAA Track and Field Championship * Time* 04:01.92 *Date*  05-06-2011
+Race * HHSAA Track and Field Championship * Time* 04:20.32 *Date*  05-06-2011
+Race * KIF Track and Field Championship * Time* 04:05.42 *Date*  04-21-2011
+Race * KIF Qualifying Meet #5 * Time* 04:02.08 *Date*  03-31-2011
+Race * KIF Qualifying Meet #4 * Time* 04:07.15 *Date*  03-24-2011
+Race * KIF Qualifying Meet #3 * Time* 04:16.99 *Date*  03-10-2011
+Race * Henry Lee Invitational * Time* 04:04.32 *Date*  03-05-2011
+Race * USATF Junior Olympic Track & Field Championships * Time* 04:02.53 *Date*  07-27-2010
+Race * HHSAA State Track & Field Championships * Time* 04:02.10 *Date*  05-14-2010
+Race * HHSAA State Track & Field Championships * Time* 04:20.60 *Date*  05-14-2010
+Race * 2010 KIF Track and Field Championship * Time* 04:08.67 *Date*  04-29-2010
+Race * 2010 Kauai Rotary Meet * Time* 04:19.55 *Date*  04-16-2010
+Race * KIF Qualify 4 Track Meet * Time* 04:29.20 *Date*  04-01-2010
+Race * Blue and Gold * Time* 04:12.90 *Date*  03-26-2010
+Race * ILH JV/Varsity @ Iolani * Time* 04:11.89 *Date*  03-20-2010
+Race * Kauai Mayor's Invitational * Time* 04:13.14 *Date*  03-12-2010
+Race * KIF Qualify 1 Track Meet * Time* 04:18.92 *Date*  03-05-2010
+Race * KIF Qualify 1 Track Meet * Time* 04:18.92 *Date*  03-05-2010
+Race * HHSAA State Track & Field Championships * Time* 04:06.22 *Date*  05-15-2009
+Race * HHSAA State Track & Field Championships * Time* 04:18.11 *Date*  05-15-2009
+Race * KIF Track Championships * Time* 04:11.51 *Date*  04-30-2009
+Race * KIF Qualifier Meet #6 * Time* 04:20.63 *Date*  04-24-2009
+Distance* 10000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 29:15.18 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 29:45.35 *Date*  05-28-2015
+Race * Stanford Invitational * Time* 28:52.70 *Date*  04-03-2015
+Race * NCAA DI Cross Country Championships * Time* 30:51.70 *Date*  11-22-2014
+Race * NCAA DI Mountain Regional * Time* 30:00.81 *Date*  11-14-2014
+Race * NCAA Division I West Preliminary * Time* 29:42.22 *Date*  05-29-2014
+Race * Jerry Quiller Classic * Time* 30:20.57 *Date*  03-21-2014
+Race * NCAA DI Cross Country Championships * Time* 30:44.90 *Date*  11-23-2013
+Race * NCAA DI Mountain Regional * Time* 29:46.17 *Date*  11-15-2013
+Race * NCAA West Regional * Time* 31:21.69 *Date*  05-23-2013
+Race * Pac 12 Championships * Time* 29:36.48 *Date*  05-04-2013
+Race * Stanford Invitational * Time* 29:37.71 *Date*  03-29-2013
+Race * NCAA DI Cross Country Championships * Time* 30:11.80 *Date*  11-17-2012
+Race * NCAA DI Mountain Regional * Time* 30:36.60 *Date*  11-09-2012
+Name* Anthony Rotich
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:23.50 *Date*  10-17-2015
+Race * Notre Dame Invitational * Time* 23:49.10 *Date*  10-02-2015
+Race * Conference USA Championship * Time* 24:04.40 *Date*  11-01-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:19.14 *Date*  10-18-2014
+Race * Chile Pepper Cross Country Festival * Time* 23:54.50 *Date*  10-04-2014
+Race * Conference USA Championship * Time* 24:31.57 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:25.40 *Date*  10-19-2013
+Race * Notre Dame Adidas Invitational * Time* 24:18.30 *Date*  10-04-2013
+Race * Conference USA Championships * Time* 23:32.20 *Date*  10-29-2012
+Race * NCAA Pre-Nationals * Time* 23:01.13 *Date*  10-13-2012
+Race * OSU Cowboy Jamboree * Time* 24:29.26 *Date*  09-29-2012
+Race * Kachina Classic * Time* 24:15.14 *Date*  09-15-2012
+Distance* 6436
+Race * Texas Tech vs. New Mexico State vs. UTEP * Time* 20:07.40 *Date*  08-29-2014
+Predict the time for the 5000  here: *  
+Distance* 1609
+Race * Brutus Hamilton Open * Time* 03:59.93 *Date*  04-24-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 04:01.78 *Date*  03-13-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 03:59.94 *Date*  03-13-2015
+Race * New Mexico Team Invitational * Time* 04:02.75 *Date*  01-31-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 04:02.54 *Date*  03-14-2014
+Race * NCAA DI Indoor Track and Field Championships * Time* 04:10.09 *Date*  03-14-2014
+Race * Conference USA Championships * Time* 04:06.07 *Date*  02-28-2014
+Race * Cherry and Silver Invitational (College) * Time* 04:01.11 *Date*  01-24-2014
+Race * UNM Lobo Collegiate Indoor * Time* 04:10.72 *Date*  01-18-2014
+Race * Conference USA Championships * Time* 04:16.57 *Date*  02-23-2013
+Race * New Mexico Classic (College) * Time* 04:03.06 *Date*  02-01-2013
+Race * Cherry and Silver Invitational (College) * Time* 04:08.48 *Date*  01-18-2013
+Distance* 10000
+Race * NCAA DI Cross Country Championships * Time* 30:33.10 *Date*  11-22-2014
+Race * NCAA DI Mountain Regional * Time* 29:38.61 *Date*  11-14-2014
+Race * NCAA DI Cross Country Championships * Time* 30:27.30 *Date*  11-23-2013
+Race * NCAA DI Mountain Regional * Time* 29:39.50 *Date*  11-15-2013
+Race * NCAA DI Cross Country Championships * Time* 29:13.50 *Date*  11-17-2012
+Race * NCAA DI Mountain Regional * Time* 29:55.90 *Date*  11-09-2012
+Distance* 3000
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:33.90 *Date*  06-10-2015
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:40.52 *Date*  06-10-2015
+Race * NCAA Division I West Preliminary * Time* 08:42.90 *Date*  05-28-2015
+Race * Conference USA Outdoor Championships * Time* 08:59.64 *Date*  05-14-2015
+Race * Brutus Hamilton Open * Time* 08:39.70 *Date*  04-24-2015
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:32.21 *Date*  06-11-2014
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:39.76 *Date*  06-11-2014
+Race * NCAA Division I West Preliminary * Time* 08:38.80 *Date*  05-29-2014
+Race * Conference USA Outdoor Championships * Time* 08:53.27 *Date*  05-15-2014
+Race * Payton Jordan Cardinal Invitational * Time* 08:30.54 *Date*  05-04-2014
+Race * Texas Relays * Time* 08:38.68 *Date*  03-26-2014
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:21.19 *Date*  06-05-2013
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:32.50 *Date*  06-05-2013
+Race * NCAA West Regional * Time* 08:37.49 *Date*  05-23-2013
+Race * Conference USA Outdoor Championships * Time* 08:39.44 *Date*  05-09-2013
+Race * Mt. SAC Relays * Time* 08:37.47 *Date*  04-18-2013
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:46.01 *Date*  06-06-2012
+Race * NCAA Division 1 Outdoor Track & Field Championship * Time* 08:41.14 *Date*  06-06-2012
+Race * NCAA West Regional * Time* 08:49.42 *Date*  05-24-2012
+Race * Conference USA Outdoor Championships * Time* 08:56.39 *Date*  05-11-2012
+Race * Stanford Invitational * Time* 08:55.63 *Date*  04-06-2012
+Race * Texas Relays * Time* 08:56.06 *Date*  03-28-2012
+Distance* 1500
+Race * Conference USA Outdoor Championships * Time* 03:43.72 *Date*  05-14-2015
+Race * UTEP Invitational * Time* 03:48.11 *Date*  04-18-2015
+Race * Texas Relays * Time* 03:46.58 *Date*  03-25-2015
+Race * Conference USA Outdoor Championships * Time* 03:43.25 *Date*  05-15-2014
+Race * Conference USA Outdoor Championships * Time* 03:51.95 *Date*  05-15-2014
+Race * UTEP Invitational * Time* 03:42.55 *Date*  04-12-2014
+Race * Conference USA Outdoor Championships * Time* 03:43.01 *Date*  05-09-2013
+Race * UTEP Invitational * Time* 03:47.54 *Date*  04-13-2013
+Race * UTEP Invitational * Time* 03:56.03 *Date*  03-23-2013
+Race * UTEP Invitational * Time* 04:00.40 *Date*  04-14-2012
+Race * UTEP Invitational * Time* 03:50.53 *Date*  03-24-2012
+Name* Martin Hehir
+Distance* 800
+Race * Minisink Valley vs. Washingtonville * Time* 02:10.74 *Date*  04-26-2011
+Race * Middletown Invitational * Time* 01:56.84 *Date*  05-15-2010
+Race * Minisink vs. Washingtonville * Time* 02:04.54 *Date*  05-04-2010
+Race * West Point Invitational * Time* 02:25.90 *Date*  12-30-2008
+Distance* 1600
+Race * NYSPHSAA - NY State Champs * Time* 04:19.12 *Date*  06-10-2011
+Race * Section 9 State Qualifier * Time* 04:28.84 *Date*  06-02-2011
+Race * Section 9 Class A-D Champs * Time* 04:16.27 *Date*  05-26-2011
+Race * Sec. 9 OCIAA Champs * Time* 04:18.90 *Date*  05-21-2011
+Race * NYSPHSAA -NY State Champs * Time* 04:24.79 *Date*  03-05-2011
+Race * Section 9 State Qualifier * Time* 04:33.09 *Date*  02-26-2011
+Race * Section 9 Class Champs * Time* 04:30.69 *Date*  02-19-2011
+Race * Sec. 9 Developement Meet 8 * Time* 04:25.60 *Date*  01-02-2011
+Race * NYSPHSAA - NY State Champs * Time* 04:13.67 *Date*  06-11-2010
+Race * Section 9 State Qualifier * Time* 04:39.03 *Date*  06-03-2010
+Race * Section 9 Class A-D Champs * Time* 04:17.93 *Date*  05-27-2010
+Race * Sec. 9 OCIAA Champs * Time* 04:16.34 *Date*  05-22-2010
+Race * NYSPHSAA -NY State Champs * Time* 04:27.66 *Date*  03-06-2010
+Race * Section 9 State Qualifier * Time* 04:36.28 *Date*  02-26-2010
+Race * Section 9 Class Champs * Time* 04:27.91 *Date*  02-14-2010
+Race * Sec. 9 OCIAA Division Meet * Time* 04:27.25 *Date*  01-22-2010
+Race * Sec. 9 OCIAA Indoor #3 * Time* 04:39.09 *Date*  12-18-2009
+Race * NJ Frosh/Novice Champs * Time* 05:44.10 *Date*  01-26-2009
+Race * Southern Tier * Time* 04:33.75 *Date*  01-10-2009
+Race * OCIAA "B" Format Meet * Time* 04:37.88 *Date*  01-04-2009
+Race * Section 9 State Qualifier * Time* 04:35.76 *Date*  06-05-2008
+Race * Sec 9 Class A Champs * Time* 04:46.42 *Date*  05-30-2008
+Race * OCIAA Championships * Time* 04:39.94 *Date*  05-24-2008
+Race * 41st Glenn D. Loucks Games * Time* 04:34.59 *Date*  05-08-2008
+Race * 41st Glenn D. Loucks Games * Time* 04:34.59 *Date*  05-08-2008
+Distance* 4000
+Race * Reebok Manhattan HS Invitational * Time* 12:54.51 *Date*  10-09-2010
+Race * Grout Invitational * Time* 13:06.32 *Date*  10-02-2010
+Race * Manhattan College Invitational * Time* 12:57.10 *Date*  10-10-2009
+Race * Grout Invitational * Time* 13:29.10 *Date*  10-03-2009
+Race * Manhattan College Invitational * Time* 17:08.20 *Date*  10-11-2008
+Race * Manhattan College Invitational * Time* 13:16.86 *Date*  10-11-2008
+Distance* 6436
+Race * Toledo Bubble Buster Invitational * Time* 19:07.11 *Date*  09-21-2012
+Distance* 1000
+Race * Section 9 Class Champs * Time* 02:33.71 *Date*  02-19-2011
+Race * OCIAA Champs (Boys) * Time* 02:34.20 *Date*  02-13-2011
+Race * OCIAA A Format * Time* 03:23.30 *Date*  01-30-2009
+Race * Sec. 9 OCIAA Meets * Time* 03:23.30 *Date*  01-30-2009
+Race * OCIAA "A" Format Meet * Time* 03:25.51 *Date*  01-16-2009
+Distance* 1609
+Race * Penn State National * Time* 03:59.81 *Date*  01-30-2015
+Race * BU David Hemery Valentine Invitational * Time* 04:00.04 *Date*  02-07-2014
+Race * New Balance Games * Time* 04:22.58 *Date*  01-22-2011
+Race * Hispanic Games presented by The Navy * Time* 04:17.09 *Date*  01-08-2011
+Distance* 3200
+Race * NYSPHSAA - NY State Champs * Time* 09:03.01 *Date*  06-10-2011
+Race * Section 9 State Qualifier * Time* 10:13.10 *Date*  06-02-2011
+Race * 44th Glenn D. Loucks Games * Time* 09:00.21 *Date*  05-12-2011
+Race * NYSPHSAA -NY State Champs * Time* 09:13.29 *Date*  03-05-2011
+Race * Section 9 State Qualifier * Time* 09:51.17 *Date*  02-26-2011
+Race * NJ Varsity Classic * Time* 09:12.55 *Date*  02-07-2011
+Race * NYSPHSAA - NY State Champs * Time* 09:17.74 *Date*  06-11-2010
+Race * Section 9 State Qualifier * Time* 10:01.10 *Date*  06-03-2010
+Race * Section 9 Class A-D Champs * Time* 09:47.17 *Date*  05-27-2010
+Race * Sec. 9 OCIAA Champs * Time* 09:34.09 *Date*  05-22-2010
+Race * 43rd Glenn D. Loucks Games * Time* 09:15.26 *Date*  05-06-2010
+Race * Newburgh Goldbacks Invitational * Time* 09:38.57 *Date*  04-17-2010
+Race * NYSPHSAA -NY State Champs * Time* 09:26.78 *Date*  03-06-2010
+Race * Section 9 State Qualifier * Time* 09:51.13 *Date*  02-26-2010
+Race * Section 9 Class Champs * Time* 10:01.75 *Date*  02-14-2010
+Race * Section 9 OCIAA Champs * Time* 09:38.05 *Date*  02-06-2010
+Race * Section 9 OCIAA * Time* 10:08.68 *Date*  01-16-2010
+Race * NYSPHSAA  - NY State Champs * Time* 09:53.59 *Date*  06-12-2009
+Race * Section 9 state qualifier * Time* 09:39.40 *Date*  06-04-2009
+Race * Sec 9 A & D Champs * Time* 09:54.42 *Date*  05-27-2009
+Race * NYSPHSAA  - NY State Championships * Time* 10:06.96 *Date*  03-07-2009
+Race * Section 9 Boys State Qualifier * Time* 09:52.21 *Date*  02-27-2009
+Race * Sec. 9 OCIAA Meets * Time* 09:38.59 *Date*  01-30-2009
+Race * OCIAA A Format * Time* 09:38.59 *Date*  01-30-2009
+Race * Sec 9 Class A Champs * Time* 09:58.09 *Date*  05-30-2008
+Race * OCIAA Championships * Time* 10:04.11 *Date*  05-24-2008
+Distance* 8000
+Race * Wisconsin Adidas Invitational * Time* 23:36.90 *Date*  10-16-2015
+Race * Boston College Invitational / Coast to Coast Battle * Time* 23:54.20 *Date*  09-25-2015
+Race * ACC Championship * Time* 23:15.20 *Date*  10-31-2014
+Race * Wisconsin Adidas Invitational * Time* 23:55.14 *Date*  10-17-2014
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:31.14 *Date*  09-26-2014
+Race * ACC Championship * Time* 24:05.50 *Date*  11-01-2013
+Race * Wisconsin Adidas Invitational * Time* 23:49.14 *Date*  10-19-2013
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:12.14 *Date*  09-27-2013
+Race * Big East Conference Champs * Time* 24:37.20 *Date*  10-26-2012
+Race * Wisconsin Adidas Invitational * Time* 24:09.14 *Date*  10-12-2012
+Distance* 2000
+Race * Big Red Invitational - NY * Time* 08:26.50 *Date*  09-15-2007
+Distance* 3000
+Race * NCAA DI Indoor Track and Field Championships * Time* 08:03.38 *Date*  03-13-2015
+Race * ACC Championships * Time* 07:53.15 *Date*  02-26-2015
+Race * Millrose Games * Time* 08:04.65 *Date*  02-14-2015
+Race * ACC Championships * Time* 08:25.62 *Date*  02-27-2014
+Race * Penn State National Invitational * Time* 07:59.40 *Date*  01-31-2014
+Race * Alex Wilson Invitational * Time* 08:00.24 *Date*  03-01-2013
+Race * Big East Conference Championships * Time* 08:04.33 *Date*  02-16-2013
+Race * Robert Kane Invitational * Time* 08:10.93 *Date*  02-09-2013
+Race * Penn State National Invitational * Time* 08:12.74 *Date*  01-25-2013
+Race * Flotrack Husky Classic * Time* 08:23.94 *Date*  02-10-2012
+Race * BU Terrier Invitational * Time* 08:06.63 *Date*  01-28-2012
+Race * The Penn Relays Carnival * Time* 08:25.64 *Date*  04-28-2011
+Distance* 3218
+Race * Hispanic Games presented by The Navy * Time* 09:34.29 *Date*  01-09-2010
+Distance* 600
+Race * OCIAA "B" Format Meet * Time* 01:53.76 *Date*  01-04-2009
+Distance* 4827
+Race * Section 9 Championships * Time* 15:08.03 *Date*  11-05-2010
+Race * OCIAA Championships * Time* 15:02.14 *Date*  10-29-2010
+Race * Boathouse Big Red Invitational * Time* 15:47.30 *Date*  09-11-2010
+Race * Section 9 Championships * Time* 15:27.12 *Date*  11-06-2009
+Race * OCIAA Championships * Time* 15:42.51 *Date*  10-30-2009
+Race * Boathouse Big Red Invitational * Time* 16:16.92 *Date*  09-12-2009
+Race * Washingtonville Wizard Invitational * Time* 15:52.20 *Date*  09-05-2009
+Race * Section 9 Championships * Time* 15:56.75 *Date*  10-31-2008
+Race * Section 9 Championships * Time* 19:45.47 *Date*  10-31-2008
+Race * Sec. 9 Orange County Champs (OCIAA) * Time* 20:08.38 *Date*  10-24-2008
+Race * Sec. 9 Orange County Champs (OCIAA) * Time* 16:16.44 *Date*  10-24-2008
+Race * Wizard Invitational * Time* 16:21.98 *Date*  09-06-2008
+Race * Wizard Invitational * Time* 20:19.12 *Date*  09-06-2008
+Distance* 1500
+Race * Payton Jordan Cardinal Invitational * Time* 03:47.19 *Date*  05-04-2014
+Race * Virginia Challenge * Time* 03:48.53 *Date*  05-10-2013
+Race * Larry Ellis Memorial Invitational * Time* 03:51.59 *Date*  04-20-2012
+Predict the time for the 10000  here: *  
+Distance* 5000
+Race * ACC Championship * Time* 14:00.63 *Date*  05-14-2015
+Race * Payton Jordan Cardinal Invitational * Time* 13:35.70 *Date*  05-02-2015
+Race * ACC Championships * Time* 13:57.97 *Date*  02-26-2015
+Race * ACC Championship * Time* 14:01.82 *Date*  04-17-2014
+Race * Stanford Invitational * Time* 13:50.88 *Date*  04-04-2014
+Race * ACC Championships * Time* 14:07.39 *Date*  02-27-2014
+Race * NCAA Division I East Regional * Time* 14:23.57 *Date*  05-23-2013
+Race * Big East Championship * Time* 14:31.75 *Date*  05-03-2013
+Race * Stanford Invitational * Time* 13:53.65 *Date*  03-29-2013
+Race * Big East Conference Championships * Time* 14:22.87 *Date*  02-16-2013
+Race * NCAA East Regional * Time* 14:23.34 *Date*  05-24-2012
+Race * Big East Championship * Time* 14:27.17 *Date*  05-03-2012
+Race * Stanford Invitational * Time* 14:01.60 *Date*  04-06-2012
+Race * Big East Conference Championships * Time* 14:13.49 *Date*  02-18-2012
+Race * Nike Cross Nationals * Time* 16:42.40 *Date*  12-04-2010
+Race * Nike Cross Nationals New York Regional * Time* 15:57.60 *Date*  11-27-2010
+Race * NY Federation Championships * Time* 16:01.80 *Date*  11-20-2010
+Race * NYSPHSAA - New York State Championships * Time* 16:06.60 *Date*  11-13-2010
+Race * Section 1 Coaches Invitational * Time* 16:13.22 *Date*  10-23-2010
+Race * Sec. 9 OCIAA DII Champs * Time* 15:28.92 *Date*  10-19-2010
+Race * 18th Carlisle High School Invitational * Time* 15:40.39 *Date*  09-25-2010
+Race * New Balance Outdoor Nationals * Time* 15:41.04 *Date*  06-17-2010
+Race * Nike Cross Nationals New York Regional * Time* 16:31.90 *Date*  11-28-2009
+Race * NY Federation Championships * Time* 16:39.80 *Date*  11-21-2009
+Race * NYSPHSAA - New York State Championships * Time* 15:52.80 *Date*  11-14-2009
+Race * Section 1 Coaches Invitational * Time* 17:04.07 *Date*  10-24-2009
+Race * 17th Carlisle High School Invitational * Time* 15:57.04 *Date*  09-26-2009
+Race * Red Raider Run * Time* 17:00.41 *Date*  09-18-2009
+Race * NY Federation Championship * Time* 17:54.40 *Date*  11-15-2008
+Race * NY State Champs - NYSPHSAA * Time* 16:59.90 *Date*  11-08-2008
+Race * Section 1 Coaches Invitational * Time* 16:50.55 *Date*  10-18-2008
+Race * Section 1 Coaches Invitational * Time* 20:44.06 *Date*  10-18-2008
+Race * Red Raider Run * Time* 21:19.02 *Date*  09-12-2008
+Race * Red Raider Run * Time* 17:10.51 *Date*  09-12-2008
+Name* Grant Fisher
+Distance* 800
+Race * MITS - SVSU #4 - Distance Festival * Time* 01:55.76 *Date*  02-07-2014
+Distance* 1600
+Race * Nike Festival of Miles * Time* 03:57.93 *Date*  06-04-2015
+Race * MHSAA State Championships LP-1 * Time* 04:00.28 *Date*  05-30-2015
+Race * MHSAA Regional 10 * Time* 04:18.45 *Date*  05-15-2015
+Race * KLAA Lakes Conference Meet * Time* 04:07.72 *Date*  05-09-2015
+Race * MITS State Championship * Time* 04:04.46 *Date*  02-28-2015
+Race * MHSAA State Championships LP-1 * Time* 04:10.82 *Date*  05-31-2014
+Race * MHSAA Regional 10 * Time* 04:12.48 *Date*  05-16-2014
+Race * KLAA Lakes Conference Meet * Time* 04:14.78 *Date*  05-10-2014
+Race * Golden Triangle Invitational * Time* 04:10.96 *Date*  05-02-2014
+Race * MITS State Championship * Time* 04:11.32 *Date*  02-22-2014
+Race * Gazelle Sports Elite Meet - MITS - GVSU #3 * Time* 04:16.94 *Date*  01-31-2014
+Race * MHSAA State Championships LP-1 * Time* 04:15.769 *Date*  06-01-2013
+Race * KLAA Lakes Conference Championships * Time* 04:11.27 *Date*  05-11-2013
+Race * Golden Triangle Invitational * Time* 04:24.16 *Date*  05-03-2013
+Race * MITS State Championship * Time* 04:20.85 *Date*  02-23-2013
+Race * Gazelle Sports/adidas Elite Meet * Time* 04:20.53 *Date*  02-16-2013
+Race * MHSAA State Championships LP-1 * Time* 04:30.23 *Date*  06-02-2012
+Predict the time for the 5000  here: *  
+Distance* 1609
+Race * Adidas Grand Prix * Time* 04:01.73 *Date*  06-13-2015
+Race * Nike Festival of Miles * Time* 03:59.38 *Date*  06-04-2015
+Race * New Balance Nationals Indoor * Time* 04:03.54 *Date*  03-13-2015
+Race * GVSU Big Meet * Time* 04:06.72 *Date*  02-13-2015
+Race * Gazelle Sports Elite Meet - MITS - GVSU #3 * Time* 04:07.29 *Date*  01-30-2015
+Race * Adidas Grand Prix * Time* 04:02.02 *Date*  06-14-2014
+Race * New Balance Nationals Indoor * Time* 04:09.46 *Date*  03-14-2014
+Race * New Balance Outdoor Nationals * Time* 04:12.74 *Date*  06-14-2013
+Distance* 3200
+Race * MHSAA State Championships LP-1 * Time* 08:53.41 *Date*  05-30-2015
+Race * MHSAA Regional 10 * Time* 09:18.60 *Date*  05-15-2015
+Race * KLAA Lakes Conference Meet * Time* 09:20.71 *Date*  05-09-2015
+Race * MHSAA State Championships LP-1 * Time* 09:07.11 *Date*  05-31-2014
+Race * MHSAA Regional 10 * Time* 09:26.09 *Date*  05-16-2014
+Race * KLAA Lakes Conference Meet * Time* 09:33.93 *Date*  05-10-2014
+Race * JD's Invitational * Time* 08:55.75 *Date*  04-25-2014
+Race * MHSAA State Championships LP-1 * Time* 09:04.33 *Date*  06-01-2013
+Race * KLAA Lakes Conference Championships * Time* 09:21.91 *Date*  05-11-2013
+Race * JD's Imagecraft Invitational * Time* 09:13.40 *Date*  04-26-2013
+Race * MHSAA State Championships LP-1 * Time* 09:40.07 *Date*  06-02-2012
+Distance* 8000
+Race * Stanford Invitational * Time* 23:33.90 *Date*  09-26-2015
+Distance* 3218
+Race * Brooks PR Invitational * Time* 08:43.57 *Date*  06-19-2015
+Race * Brooks PR Invitational * Time* 08:51.28 *Date*  06-21-2014
+Distance* 1500
+Race * USATF Junior National Outdoor T&F Championships * Time* 04:00.09 *Date*  06-25-2015
+Race * USATF Junior National Outdoor T&F Championships * Time* 03:58.77 *Date*  06-25-2015
+Race * Nike Festival of Miles * Time* 03:43.25 *Date*  06-04-2015
+Race * Payton Jordan Cardinal Invitational * Time* 03:42.89 *Date*  05-02-2015
+Race * Hillsdale Gina Relays * Time* 03:46.15 *Date*  04-23-2015
+Race * New Balance Nationals Indoor * Time* 03:46.405 *Date*  03-13-2015
+Race * 2014 IAAF World Junior Championships * Time* 03:49.62 *Date*  07-22-2014
+Race * USATF Junior National Outdoor T&F Championships * Time* 03:56.97 *Date*  07-05-2014
+Race * USATF Junior National Outdoor T&F Championships * Time* 03:50.51 *Date*  07-05-2014
+Race * USATF US Area Youth Olympic Selection Trials * Time* 03:51.92 *Date*  04-04-2014
+Race * New Balance Nationals Indoor * Time* 03:54.281 *Date*  03-14-2014
+Race * 8th IAAF World Youth Championships * Time* 03:52.23 *Date*  07-10-2013
+Race * 8th IAAF World Youth Championships * Time* 03:50.30 *Date*  07-10-2013
+Name* Ammar Moussa
+Distance* 800
+Race * Colorado Invitational * Time* 01:53.22 *Date*  04-10-2015
+Race * Colorado Invitational * Time* 01:52.42 *Date*  04-11-2014
+Race * San Gabriel Valley Championships * Time* 01:53.21 *Date*  04-23-2011
+Race * San Gabriel Valley Championships * Time* 01:59.21 *Date*  04-24-2010
+Race * Pacific League Prelims * Time* 01:59.66 *Date*  05-02-2009
+Distance* 1600
+Race * San Gabriel Valley Championships * Time* 04:10.27 *Date*  04-23-2011
+Race * CIF Southern Section Masters Meet * Time* 04:15.06 *Date*  05-28-2010
+Race * CIF-SS Divisional Finals * Time* 04:12.23 *Date*  05-22-2010
+Race * Pacific League Championships * Time* 04:30.94 *Date*  04-30-2010
+Race * Pacific League Championships * Time* 04:10.40 *Date*  04-30-2010
+Race * San Gabriel Valley Championships * Time* 04:12.92 *Date*  04-24-2010
+Race * CIF Southern Section Masters * Time* 04:14.73 *Date*  05-29-2009
+Race * CIF-Southern Section Divisional Finals * Time* 04:15.17 *Date*  05-23-2009
+Race * CIF Southern Section Divsion 1 Prelims * Time* 04:15.38 *Date*  05-16-2009
+Race * Pacific League Prelims * Time* 04:23.65 *Date*  05-02-2009
+Race * San Gabriel Valley Championships * Time* 04:21.10 *Date*  04-25-2009
+Distance* 5000
+Race * NCAA Division I West Preliminary * Time* 14:13.85 *Date*  05-28-2015
+Race * Pac-12 Championships * Time* 14:01.04 *Date*  05-16-2015
+Race * Mt. SAC Relays * Time* 13:41.87 *Date*  04-16-2015
+Race * NCAA DI Indoor Track and Field Championships * Time* 14:01.22 *Date*  03-13-2015
+Race * Husky Classic * Time* 13:48.34 *Date*  02-13-2015
+Race * Colorado State Frontier Academy Invitational * Time* 14:37.87 *Date*  09-05-2014
+Race * Payton Jordan Cardinal Invitational * Time* 13:56.83 *Date*  05-04-2014
+Race * NCAA West Regional * Time* 14:45.12 *Date*  05-23-2013
+Race * Pac 12 Championships * Time* 14:27.90 *Date*  05-04-2013
+Race * Payton Jordan Cardinal Invitational * Time* 13:57.96 *Date*  04-28-2013
+Race * Stanford Invitational * Time* 14:12.79 *Date*  03-29-2013
+Race * Payton Jordan Cardinal Invitational * Time* 14:05.79 *Date*  05-01-2011
+Race * Ben Brown Invitational * Time* 14:13.82 *Date*  03-05-2011
+Race * Nike Cross Nationals * Time* 16:16.30 *Date*  12-04-2010
+Race * CIF California State Cross Country Championships * Time* 14:43.88 *Date*  11-27-2010
+Race * Asics Clovis Invitational * Time* 14:51.89 *Date*  10-09-2010
+Race * Stanford Invitational * Time* 14:37.87 *Date*  09-25-2010
+Race * USATF National J.O. XC Championships * Time* 15:54.95 *Date*  12-12-2009
+Race * Nike Cross Nationals * Time* 15:17.60 *Date*  12-05-2009
+Race * CIF California Cross Country State Meet * Time* 14:59.89 *Date*  11-28-2009
+Race * Asics Clovis Invitational * Time* 14:57.89 *Date*  10-10-2009
+Race * Stanford Invitational * Time* 14:57.89 *Date*  09-26-2009
+Race * CIF California State Meet / NXN California Regional * Time* 15:39.93 *Date*  11-29-2008
+Race * Clovis Invitational * Time* 15:26.92 *Date*  10-11-2008
+Race * Stanford Invitational * Time* 15:53.95 *Date*  09-27-2008
+Race * CIF State Cross Country Championships * Time* 16:35.99 *Date*  11-24-2007
+Distance* 1609
+Race * Air Force Invitational * Time* 04:15.82 *Date*  01-22-2015
+Race * Air Force Invitational * Time* 04:22.55 *Date*  01-23-2014
+Race * adidas Grand Prix * Time* 04:08.05 *Date*  06-11-2011
+Race * adidas Meet of Champions * Time* 04:09.24 *Date*  03-25-2011
+Race * adidas Grand Prix * Time* 04:10.10 *Date*  06-12-2010
+Race * Reebok Boston Indoor Games * Time* 04:14.13 *Date*  02-06-2010
+Race * Golden West Invitational * Time* 04:38.64 *Date*  06-07-2008
+Distance* 3200
+Race * CIF State Track and Field Championship Finals * Time* 08:56.97 *Date*  06-03-2011
+Race * CIF-SS Masters Meet * Time* 09:01.09 *Date*  05-27-2011
+Race * CIF-SS Division Finals * Time* 08:54.85 *Date*  05-21-2011
+Race * CIF Southern Section Division 1 Prelims * Time* 09:13.88 *Date*  05-14-2011
+Race * Arcadia Invitational * Time* 08:49.59 *Date*  04-08-2011
+Race * CIF California Track & Field State Meet * Time* 08:57.82 *Date*  06-04-2010
+Race * CIF Southern Section Masters Meet * Time* 09:05.87 *Date*  05-28-2010
+Race * CIF-SS Divisional Finals * Time* 08:58.88 *Date*  05-22-2010
+Race * Pacific League Championships * Time* 09:19.90 *Date*  04-30-2010
+Race * Arcadia Invitational * Time* 08:58.46 *Date*  04-09-2010
+Race * Irvine Invitational * Time* 09:14.20 *Date*  03-13-2010
+Race * Golden West Invitational * Time* 09:05.70 *Date*  06-13-2009
+Race * CIF California State Track and Field Championships * Time* 09:03.26 *Date*  06-05-2009
+Race * CIF Southern Section Masters * Time* 09:06.06 *Date*  05-29-2009
+Race * CIF-Southern Section Divisional Finals * Time* 09:12.82 *Date*  05-23-2009
+Race * CIF Southern Section Divsion 1 Prelims * Time* 09:20.68 *Date*  05-16-2009
+Race * Arcadia Invitational * Time* 09:12.82 *Date*  04-10-2009
+Race * Meet of Champions - Azusa Pacific University * Time* 09:18.10 *Date*  03-28-2009
+Race * Irvine Track & Field Invitational * Time* 09:22.80 *Date*  03-13-2009
+Distance* 8000
+Race * NCAA Division I (DI) Pre-Nationals * Time* 23:34.80 *Date*  10-17-2015
+Race * Pac 12 Cross Country Championships * Time* 23:49.14 *Date*  10-31-2014
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:21.80 *Date*  10-18-2014
+Race * Rocky Mountain Shootout * Time* 24:28.10 *Date*  10-04-2014
+Race * CU Alumni/Open Time Trial * Time* 25:56.50 *Date*  08-30-2014
+Race * Pac 12 Cross Country Championships * Time* 25:15.15 *Date*  11-02-2013
+Race * NCAA Division I (DI) Pre-Nationals * Time* 24:15.80 *Date*  10-19-2013
+Race * CU Alumni/Open Time Trial * Time* 26:20.15 *Date*  08-31-2013
+Race * Pac 12 Cross Country Championships * Time* 23:43.14 *Date*  10-29-2011
+Race * NCAA Pre-Nationals * Time* 24:36.14 *Date*  10-16-2011
+Race * IAAF World Cross Country Championships * Time* 24:21.14 *Date*  03-20-2011
+Distance* 10000
+Race * NCAA Division I West Preliminary * Time* 30:49.03 *Date*  05-28-2015
+Race * Pac-12 Championships * Time* 29:34.28 *Date*  05-16-2015
+Race * NCAA DI Cross Country Championships * Time* 30:29.60 *Date*  11-22-2014
+Race * NCAA DI Mountain Regional * Time* 29:58.07 *Date*  11-14-2014
+Race * Jerry Quiller Classic * Time* 30:38.83 *Date*  03-21-2014
+Race * NCAA DI Cross Country Championships * Time* 31:17.10 *Date*  11-23-2013
+Race * NCAA DI Mountain Regional * Time* 30:08.18 *Date*  11-15-2013
+Race * NCAA DI Cross Country Championships * Time* 30:42.40 *Date*  11-21-2011
+Race * NCAA DI Mountain Region Cross Country Championship * Time* 31:07.30 *Date*  11-12-2011
+Distance* 3218
+Race * New Balance Outdoor Nationals * Time* 08:51.80 *Date*  06-16-2011
+Race * Brooks PR Invitational * Time* 09:00.62 *Date*  02-27-2011
+Distance* 3000
+Race * Mountain Pacific Sports Federation Championships * Time* 07:53.61 *Date*  02-27-2015
+Race * Mountain Pacific Sports Federation Championships * Time* 08:06.34 *Date*  02-28-2014
+Race * Husky Classic * Time* 08:09.09 *Date*  02-14-2014
+Race * Mountain Pacific Sports Federation Championships * Time* 08:11.20 *Date*  02-22-2013
+Race * Air Force Team Challenge * Time* 08:59.07 *Date*  02-09-2013
+Race * New Balance Outdoor Nationals * Time* 08:16.03 *Date*  06-16-2011
+Predict the time for the 4827  here: *  
+Distance* 1500
+Race * Payton Jordan Cardinal Invitational * Time* 03:42.68 *Date*  05-02-2015
+Race * Bryan Clay Invitational * Time* 03:43.97 *Date*  04-17-2014
+Race * Mt. SAC Relays * Time* 03:47.01 *Date*  04-18-2013
+Race * Jerry Quiller Classic * Time* 03:58.75 *Date*  03-15-2013
+Name* Justyn Knight
+Distance* 8000
+Race * Wisconsin Adidas Invitational * Time* 23:35.80 *Date*  10-16-2015
+Race * Boston College Invitational / Coast to Coast Battle * Time* 23:51.14 *Date*  09-25-2015
+Race * IAAF World Cross Country Championships * Time* 25:22.15 *Date*  03-28-2015
+Race * ACC Championship * Time* 23:30.70 *Date*  10-31-2014
+Race * Wisconsin Adidas Invitational * Time* 24:05.14 *Date*  10-17-2014
+Race * Boston College Invitational / Coast to Coast Battle * Time* 24:53.14 *Date*  09-26-2014
+Distance* 10000
+Race * NCAA DI Cross Country Championships * Time* 31:53.50 *Date*  11-22-2014
+Predict the time for the 5000  here: *  
+Distance* 1609
+Race * Penn State National * Time* 03:59.51 *Date*  01-30-2015
+Distance* 6000
+Race * APA Pan American Cross Country Cup * Time* 19:04.11 *Date*  02-26-2015
+Race * NACAC Cross Country Champs * Time* 18:42.64 *Date*  02-22-2014
+Distance* 3000
+Race * The Penn Relays Carnival * Time* 08:17.63 *Date*  04-24-2014
+Race * OFSAA Track and Field Championships * Time* 09:06.30 *Date*  06-07-2012
+Distance* 1500
+Race * ACC Championship * Time* 03:47.85 *Date*  05-14-2015
+Race * ACC Championship * Time* 03:45.06 *Date*  05-14-2015
+Race * Virginia Challenge * Time* 03:39.66 *Date*  04-17-2015
