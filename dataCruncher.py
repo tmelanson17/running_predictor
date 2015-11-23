@@ -1,8 +1,4 @@
 #!/usr/bin/python
-<<<<<<< HEAD
-=======
-
->>>>>>> master
 from bs4 import BeautifulSoup
 import re
 import fnmatch
@@ -11,7 +7,6 @@ import unicodedata
 import locale
 import sys
 import random
-<<<<<<< HEAD
 import riegelClassifier
 #import datetime
 from datetime import datetime
@@ -107,12 +102,9 @@ def riegelClassify(athleteDataDict, inputDistance):
 	print "Predicted time for",inputDistance,convertSecondsToTime(predTime)
 	print "plan: ",fitness
 	return (predTime, fitness)
-=======
-locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' ) 
 
 #Changes to directory of the dataCruncher file
 rootDir = os.path.dirname(os.path.realpath(__file__))
->>>>>>> master
 
 
 def is_number(s):
@@ -161,11 +153,8 @@ def mapDataForRaceList(soup, stripText = True): #returns tuple of (athlete name,
 				numberArr = (raceName.split()) #race name
 				if 'x' not in numberArr[0]:
 					number = locale.atoi(numberArr[0])
-<<<<<<< HEAD
 					if 'Meter' not in numberArr[1]:
 						number *= 1609
-=======
->>>>>>> master
 				else:
 					#print numberArr[0],"discarded"
 					#discard the weird 2.x, 3.x races
@@ -190,22 +179,17 @@ def mapDataForRaceList(soup, stripText = True): #returns tuple of (athlete name,
 		raceDict[raceName] = allTimesTuples
 	return (athleteName, raceDict)
 
-<<<<<<< HEAD
-=======
-
 def convertTimeToSeconds(time):
 	seconds = 0.0
 	for i, part in enumerate(reversed(time.split(":"))):
 		seconds += float(part) * (60**i)
 	return seconds
 
->>>>>>> master
 class DataCruncher():
 
 	def __init__(self):
 		dataFolder = os.path.join(rootDir, "Data")
 		menFolder = os.path.join(dataFolder, "Men")
-<<<<<<< HEAD
 		print menFolder
 		#womenFolder = os.path.join(dataFolder, "Women")
 		self.athleteNameDict = dict()
@@ -223,21 +207,17 @@ class DataCruncher():
 		for raceDistance in self.athleteNameDict[athleteName].keys():
 			distances.append(raceDistance)
 		return distances
-=======
 		#womenFolder = os.path.join(dataFolder, "Women")
 
 		self.athleteNameDict = dict()
 		self.getAthleteDataInFolder(menFolder)
 		#getAthleteDataInFolder(womenFolder, athleteNameDict)
 
->>>>>>> master
-
 	def getFastestTimesOverDistance(self, name, distance):
 		if name not in self.athleteNameDict:
 			raise Exception("Athlete with that name not found")
 		if distance not in self.athleteNameDict[name]:
 			raise Exception("Athlete has not run that race")
-<<<<<<< HEAD
 		return max(convertTimeToSeconds(race[0]) for race in self.athleteNameDict[name][distance])
 
 	def printForPurpose(self, isOracle = True):
@@ -281,7 +261,6 @@ class DataCruncher():
 
 	def getAthleteDataInFolder(self, folder):
 		dataDict = self.athleteNameDict
-=======
 		return min(convertTimeToSeconds(race[0]) for race in self.athleteNameDict[name][distance])
 
 	def getNames(self):
@@ -308,8 +287,6 @@ class DataCruncher():
 
 	def getAthleteDataInFolder(self, folder):
 		dataDict = self.athleteNameDict
-
->>>>>>> master
 		files = listdir_nohidden(folder)
 		for i in range(len(files)):
 			thisFile = os.path.join(folder, files[i])
@@ -318,7 +295,6 @@ class DataCruncher():
 			(athleteName, athleteData) = mapDataForRaceList(soup)
 			dataDict[athleteName] = athleteData
 
-<<<<<<< HEAD
 d = DataCruncher()
 #classificationMap is map of distances -> (fast, intermediate, slow) times. (tuples)
 global classificationMap
@@ -331,9 +307,5 @@ classificationMap[10000] = (convertTimeToSeconds('30:00.0'),convertTimeToSeconds
 d.printForPurpose(False)
 # athleteData = d.athleteNameDict
 #d.printHistory()
-=======
-
-
 #d = DataCruncher()
 #d.printHistoryBlanked()
->>>>>>> master
