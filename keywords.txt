@@ -1,0 +1,14 @@
+Markov Models
+Matt Millett
+TJ Melanson
+Search problem
+HMM
+Hidden Markov Model
+Weighted Regression
+Power Regression
+State Space
+Fitness
+Running
+Regression
+State-based model
+Riegel
