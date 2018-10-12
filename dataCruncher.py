@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 from bs4 import BeautifulSoup
 import re
 import fnmatch
@@ -7,6 +8,7 @@ import unicodedata
 import locale
 import sys
 import random
+
 import riegelClassifier
 #import datetime
 from datetime import datetime
@@ -102,6 +104,7 @@ def riegelClassify(athleteDataDict, inputDistance):
 	print "Predicted time for",inputDistance,convertSecondsToTime(predTime)
 	print "plan: ",fitness
 	return (predTime, fitness)
+locale.setlocale( locale.LC_ALL, 'en_US.UTF-8' ) 
 
 #Changes to directory of the dataCruncher file
 rootDir = os.path.dirname(os.path.realpath(__file__))
@@ -153,6 +156,7 @@ def mapDataForRaceList(soup, stripText = True): #returns tuple of (athlete name,
 				numberArr = (raceName.split()) #race name
 				if 'x' not in numberArr[0]:
 					number = locale.atoi(numberArr[0])
+
 					if 'Meter' not in numberArr[1]:
 						number *= 1609
 				else:
@@ -190,6 +194,7 @@ class DataCruncher():
 	def __init__(self):
 		dataFolder = os.path.join(rootDir, "Data")
 		menFolder = os.path.join(dataFolder, "Men")
+
 		print menFolder
 		#womenFolder = os.path.join(dataFolder, "Women")
 		self.athleteNameDict = dict()
@@ -295,6 +300,7 @@ class DataCruncher():
 			(athleteName, athleteData) = mapDataForRaceList(soup)
 			dataDict[athleteName] = athleteData
 
+
 d = DataCruncher()
 #classificationMap is map of distances -> (fast, intermediate, slow) times. (tuples)
 global classificationMap
@@ -309,3 +315,7 @@ d.printForPurpose(False)
 #d.printHistory()
 #d = DataCruncher()
 #d.printHistoryBlanked()
+
+#d = DataCruncher()
+#d.printHistoryBlanked()
+
